@@ -7,7 +7,7 @@ import struct
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-f", help="Filename to extract IPs from")
+    parser.add_argument("-f", help="Filename IPS FROM")
     return parser.parse_args()
 
 def ip2int(addr):
