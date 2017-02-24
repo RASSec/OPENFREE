@@ -1,0 +1,290 @@
+/*Copyright (c) 2003-2006 Microsoft Corporation.  All rights reserved.*/
+
+/* main layout styles */
+
+/* Everything should be Tahoma */
+body
+{
+	background-color:#ffffff;
+	text-align:center;
+	font-family:Tahoma;
+}
+img
+{
+	border:0;
+}
+.nonMSIE
+{
+	padding: 3px 3px; 
+	margin: 2px 2px;
+}
+table#tblMain
+{
+	margin-top:48px;
+	padding:0px 0px 0px 0px;
+}
+table.mid
+{
+	width: 385px;
+	border-collapse:collapse;
+	padding:0px;
+	color:#444444; 
+}
+table.tblConn
+{
+    direction: ltr;
+}
+td.tdConnImg
+{
+    width: 22px;
+}
+td.tdCopy
+{
+    font-size: 80%;
+}
+td.tdConn
+{
+    padding-top: 15px;
+}
+td#mdLft
+{
+	background: url("lgnleft.gif") repeat-y;
+	width:15px;
+}
+td#mdRt
+{
+	background: url("lgnright.gif") repeat-y;
+	width:15px;
+}
+td#mdMid
+{
+	padding:0px 45px;
+	background: #ffffff; 
+	vertical-align: top;
+}
+td .txtpad
+{
+	padding: 3px 6px 3px 0px;
+	text-align:right;
+}
+/* shared content styles */
+body.rtl td#mdMid
+{
+	text-align:right;
+	direction:rtl;
+}
+select, table
+{
+	color:#444444;
+}
+select, .txt
+{
+	color:#000000;
+	background-color:#fff3c0;
+	border: 1px solid #a4a4a4;
+	margin: 3px 6px; 
+}
+.txt
+{
+	padding:3px;
+	height:2.2em;
+}
+input.btn
+{
+	color: #ffffff;
+	background-color: #eb9c12;
+	border:0px;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.btnOnFcs
+{
+	color: #ffffff;
+	background-color: #eb9c12;
+	border:0px;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.btnOnMseOvr
+{
+	color: #ffffff;
+	background-color: #f9b133;
+	border:0px;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.btnOnMseDwn
+{
+	color: #000000;
+	background-color: #f9b133;
+	border: 0px solid #f9b133;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.nowrap
+{
+	white-space:nowrap;
+}
+hr
+{
+	height: 0px; 
+	visibility: hidden;
+}
+.l
+{
+	text-align:left;
+}
+.rtl .l
+{
+	text-align:right;
+}
+.r
+{
+	text-align:right;
+}
+.rtl .r
+{
+	text-align:left;
+}
+/* logon page specific styles */
+a
+{
+	color:#ff6c00;
+	text-decoration:none;
+}
+.wrng
+{
+	color:#ff6c00;
+}
+.disBsc
+{
+	color:#999999;
+}
+.expl
+{
+	color:#999999;
+}
+.w100, .txt
+{
+	width:100%;
+}
+.txt
+{
+	margin:0px 6px;
+}
+.rdo
+{
+	margin:0px 12px 0px 32px;
+}
+body.rtl .rdo
+{
+	margin:0px 32px 0px 12px;
+}
+tr.expl td, tr.wrng td
+{
+	padding:2px 0px 4px 0px;
+}
+tr#trSec td
+{
+	padding:3px 0px 8px 0px;
+}
+/* language page specific styles */
+td#tdLng
+{
+	padding:12px 0px 12px 0px;
+}
+td#tdTz
+{
+	padding:8px 0px 8px 0px;
+}
+select#selTz
+{
+	padding:0px;
+	margin:0px;
+}
+td#tdOptMsg
+{
+	padding:10px 0px 10px 0px;
+}
+td#tdOptChk
+{
+	padding:0px 0px 15px 65px;
+}
+td#tdOptAcc
+{
+	vertical-align:middle;
+	padding:0px 0px 0px 3px;
+}
+select#selLng
+{
+	margin:0px 16px;
+}
+input#btnOk
+{
+	width:50px;
+}
+/* logoff page specific styles */
+td#tdMsg
+{
+	margin:9px 0px 64px;
+}
+input#btnCls
+{
+	margin:3px 6px;
+}
+.dir
+{
+	direction: ltr;
+}
+.align
+{
+	text-align:left;
+}
+.padding
+{
+	padding-left:42px;
+}
+/* styles for logon page with script disabled */
+div#dvErr
+{
+	padding:0px 0px 3px 3px;
+	background-color: #FCBC9C;
+	border:solid 1px #B43038;
+}
+div#dvErr table
+{
+	color:#000000;
+}
+div#dvErr a
+{
+	color:#3F52B8;
+}
+td.lgnTL, td.lgnBL
+{
+	width: 456px;
+}
+td.lgnTM
+{
+	background: url("lgntopm.gif") repeat-x;
+	width: 100%;
+}
+td.lgnBM
+{
+	background: url("lgnbotm.gif") repeat-x;
+	width: 100%;
+}
+td.lgnTR, td.lgnBR
+{
+	width: 45px;
+}
+table.tblLgn
+{
+	padding: 0px; 
+	margin: 0px; 
+	border-collapse:collapse;
+	width: 100%;
+}

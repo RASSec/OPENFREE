@@ -1,0 +1,364 @@
+body, textarea
+{
+	font-family:Tahoma,Arial,Helvetica;
+	font-size: 75%;  /* E13 bug 129709: enlarge font-size from 70% to 75% */
+}
+select, input, textarea, button, label, table, pre
+{
+	font-size: 110%; /* E14 bug 129709: enlarge font-size from 100% to 110% */
+}
+input, select, pre
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+
+/*The bolded text scale up for 110% to remove the fuzziness of the font in Chinese */
+.bld,
+div.vlv .ur, /* unread message in the folder list */
+.cvIL .ur,
+.nwItmTxtFrm,
+span.bld,
+div.bold,
+td.fbLbl,
+div.moSctTxt, /* Message Options Dialog and Message Details Dialog*/
+table.lyt td.hdr, table.lyt td.sugHdr,
+table#tblDpM td.b, /* Date picker month cell - busy day */
+.fb1, /* Free/busy tentative/busy/oof */
+.visSbj, /* Subject text in visual */
+tr.gh td, /* gh - group header; Note: tr.gh background color is defined above the selection styles, so that it doesn't override them */
+span#spnPn,
+table#tblCnts col.sct, /* read contact section column */
+table#tblCnts td.bLn, /* read contact line under address section header columns */
+div#divNtfyItmSb, /* notification header bold subject text */
+td.adMgHd, /* AD organization tree person heading */
+td.cntTabCT, /* Title of a section in the form*/
+td.cntDetPT, /* Cell with title of a field in details section */
+body.rtl td.cntDetPT, /* Cell with title of a field in details section (rtl) */
+td.cntSepT, /* Section separator cell (with title) */
+#spnMbQtUsg, 
+col.pvwLabel, td.pvwLabel, td.pvwLblMdl,
+table#tblDpM td.b /* Date picker month cell - busy day */
+{
+	font-weight:bold;
+	font-size: 110%;
+}
+.nbMnuItm
+{
+	font-weight:bold;
+	font-size:120%;
+}
+div#divTr
+{
+	font-size: 100%;
+}
+button
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+#divBrandBtns
+{
+	font-size: 100%;
+}
+td.fromSdr
+{
+	font-size: 120%;
+}
+#divSubj, #divMN
+{
+	font-weight:bold;
+	font-size: 12pt;
+	font-family:Arial;
+}
+input.readSubj
+{
+	font-size: 12pt;
+	font-weight:bold;
+	font-family:Arial;
+}
+.pvwFrom, .pvwMpFrom
+{
+	font-size: 130%;
+	font-family:Arial;
+}
+textarea.txtBdy
+{
+	font-size: 100%;
+	font-family:Tahoma,Arial,Helvetica;
+}
+/* Font color for new value of modified props from meeting update highlight  */
+.updNew
+{
+	font-style:italic;
+}
+span.fbItalics
+{
+	font-style:italic;
+}
+.fbBiu
+{
+	font-family:Courier New;
+	font-size: 17;
+}
+/* Table containing grid of color cells */
+table#tblPckr
+{
+	font-size: 0px; 
+}
+/* Open as web page link in attachment well */
+span.wvsn
+{
+	font:normal 85% Tahoma, Sans Serif, Arial;
+}
+.rtl span.wvsn
+{
+	font:normal 85% Tahoma, Sans Serif, Arial;
+}
+div.awRW
+{
+	font-size: 100%;
+}
+/* Attachment well in read */
+div.awRO
+{
+	font-size: 100%;
+}
+/* Root recipient well div */
+div.rwW, input.edtSubj, textarea#taAn
+{
+	font-size: 100%;
+}
+/* DL recipient */
+span.rwDL
+{
+	font-weight:bold;
+}
+/* Misc elements that can appear inside of a recipient well */
+div.rwW a, div.rwW strong, div.rwW em, div.rwW u
+{
+	font-weight:normal;
+	font-style:normal;
+}
+td#svRemTop
+{
+	font-size: 130%;
+	font-weight:bold;
+}
+table.errDesc td#errMsg 
+{
+	font-size: 130%;
+}
+/* Main table */
+table#tblErr
+{
+	font-size: 100%;
+}
+/* Center of the header */
+td#tdErrHdCt
+{
+	font-size: 100%;
+}
+/* DIV in header */
+div.errHd
+{
+	font-size: 130%;
+}
+table.dyTms
+{
+	font-size:xx-small;
+}
+table.dyTms tr.dy
+{
+	font-weight:bold;
+}
+/* Date picker div */
+div.dp
+{
+	font-size: 8pt;
+}
+/* Date picker div -- in drop down mode */
+div.dpDD
+{
+	font-size: 8pt;
+}
+/* Week number cell */
+td.dpWN
+{
+	font-size: 7.5pt;
+}
+/* Freebusy free */
+.fb0
+{
+	font-weight:normal;
+}
+
+/* Font height div */
+div#divFH
+{
+	font-size: 100%;
+}
+/* Time strip left cell containing hour number */
+.timeStripLeft
+{
+	font-size: 175%;
+}
+/* Time strip right cell containing decoration */
+.timeStripRight
+{
+	font-size: 100%;
+}
+/* Day number in view header */
+#divDailyViewDateName, #divMonthlyViewDateName 
+{
+	font-weight:bold;
+	font-size: 125%;
+}
+/* Address Book and contact multi-line list view styles */
+/* Information column */
+table.mlIL col#abc
+{
+	font-family:Tahoma,Arial,Helvetica;
+	font-size: 100%;
+}
+/* Section header (e.g. <IMG> Calendar Options) */
+td.tdHdr
+{
+	font-size: 160%;
+}
+/* B, I, U buttons on the compose font control, still use "Courier New" for Chinese*/
+div#divCmpFnt span span
+{
+	font-weight:bold;
+	font-size: 17;
+	font-family:Courier New;
+}
+span#spnCmpI
+{
+	font-style:italic;
+}
+/* read contact titlebar displayname */
+span.nm
+{
+	font-size: 130%;
+	font-weight:bold;
+}
+span.abArrw
+{
+	font-family:Courier New;
+}
+/* div container of image and input */
+div#divNFld, div#divRFld
+{
+	font-size: 100%;
+}
+/* textbox for create new / rename folder */
+input#txtNFld
+{
+	font-size: 100%;
+}
+/* Notes text area */
+textarea.cntNot
+{
+	font-size: 100%;
+	font-family:Tahoma,Arial,Helvetica;
+}
+/* Folder list 'create new folder' input box */
+input#txtFldN
+{
+	font-size: 100%;
+}
+input.edtTsk
+{
+	font-size: 100%;
+}
+textarea.txtBdy
+{
+	font-size: 100%;
+	font-family:Tahoma,Arial,Helvetica;
+}
+/* Logon.css styles */
+body.owaLgnBdy
+{
+	font-size: 100%;
+}
+table.mid
+{
+	font-size: 70%; 
+}
+td.tdCopy
+{
+	font-size: 80%;
+}
+.mbqtTxt
+{
+	font-size: 95%;
+}
+input.btn
+{
+	font-size: 95%;
+}
+.btnOnFcs
+{
+	font-size: 95%;
+}
+.btnOnMseOvr
+{
+	font-size: 95%;
+}
+.btnOnMseDwn
+{
+	font-size: 95%;
+}
+/* Webready.css */
+table.tbWIB
+{
+	font:normal 95% Tahoma, Sans Serif, Arial;
+}
+table.tbEIB
+{
+	font:normal 95% Tahoma, Sans Serif, Arial;
+}
+input#txtcp
+{
+	font-size: 100%;
+	font-family:Tahoma, Arial, Helvetica;
+}
+
+/* read AD free/busy scroll bar tick mark section */
+table.rcpLwr tr.tck td,
+/* read AD free/busy scroll bar hour cell section */
+table.dyTmsAd tr.hrs td,
+/* read AD free/busy scroll bar time section */
+table.rcpHdrAd tr.t td
+{
+	width: 42px;
+}
+.userTileTxt
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarUserTextFontSize;
+}
+#divLogOff
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarSignOutFontSize;
+}
+#divBrandOrgName
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarCoBrandFontSize;
+}
+#divBrandOrgLive
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarIngrediantFontSize;
+}
+.brandBarLink
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarLinksFontSize;
+}
+#divMdNm
+{
+	font-family: Arial Black, Gadget, sans-serif;
+	font-size: 17pt;
+}
