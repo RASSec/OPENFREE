@@ -1,0 +1,2 @@
+www.csgc.com.cn               	114.255.172.100
+mail.csgc.com.cn              	114.255.172.102

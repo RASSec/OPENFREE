@@ -1,0 +1,83 @@
+www.cnpc.com.cn               	161.207.5.26
+search.cnpc.com.cn            	161.207.9.6
+web.cnpc.com.cn               	161.207.5.26
+s.cnpc.com.cn                 	161.207.9.6
+e.cnpc.com.cn                 	114.255.212.14
+video.cnpc.com.cn             	161.207.5.6, 161.207.9.6
+app.cnpc.com.cn               	114.255.212.12
+info.cnpc.com.cn              	161.207.1.31
+news.cnpc.com.cn              	161.207.1.14
+edu.cnpc.com.cn               	106.39.36.209
+tv.cnpc.com.cn                	161.207.1.29
+tools.cnpc.com.cn             	161.207.11.9
+open.cnpc.com.cn              	210.12.209.128, 210.12.209.129
+sc.cnpc.com.cn                	123.124.230.28
+wap.cnpc.com.cn               	161.207.1.14
+m.cnpc.com.cn                 	161.207.5.26
+api.cnpc.com.cn               	210.12.209.128, 210.12.209.129
+health.cnpc.com.cn            	114.255.212.35
+mail.cnpc.com.cn              	219.143.68.20, 61.232.0.38
+chat.cnpc.com.cn              	114.251.197.204
+sa.cnpc.com.cn                	202.96.45.25
+ftp.cnpc.com.cn               	161.207.1.190, 161.207.16.190
+mobile.cnpc.com.cn            	219.143.68.10
+svpn.cnpc.com.cn              	114.251.197.28
+journal.cnpc.com.cn           	106.39.36.209
+citrix.cnpc.com.cn            	161.207.1.219
+vpn.cnpc.com.cn               	106.39.36.179
+bz.cnpc.com.cn                	106.39.36.209
+email.cnpc.com.cn             	219.143.68.104, 61.232.0.29
+mx1.cnpc.com.cn               	219.143.68.2
+ls.cnpc.com.cn                	114.255.212.35
+ps.cnpc.com.cn                	210.12.209.128, 210.12.209.129
+dns3.cnpc.com.cn              	161.207.1.1
+tm.cnpc.com.cn                	114.255.212.34
+crm.cnpc.com.cn               	106.39.36.221
+mis.cnpc.com.cn               	161.207.11.4
+sip.cnpc.com.cn               	161.207.4.14
+dns2.cnpc.com.cn              	161.207.9.5
+survey.cnpc.com.cn            	211.100.224.154
+svn.cnpc.com.cn               	123.124.230.21
+lib.cnpc.com.cn               	123.124.230.3
+mx2.cnpc.com.cn               	61.232.0.56
+js.cnpc.com.cn                	161.207.9.6
+smtp.cnpc.com.cn              	219.143.68.3, 61.232.0.57
+dns1.cnpc.com.cn              	161.207.5.5
+image.cnpc.com.cn             	106.39.36.209
+dialin.cnpc.com.cn            	161.207.4.14
+meet.cnpc.com.cn              	161.207.4.14
+meeting.cnpc.com.cn           	106.39.36.148
+uc.cnpc.com.cn                	123.127.139.234
+jk.cnpc.com.cn                	114.255.212.35
+mdm.cnpc.com.cn               	114.255.212.40
+exam.cnpc.com.cn              	106.39.36.146, 210.12.209.164
+mp.cnpc.com.cn                	114.255.212.16
+learning.cnpc.com.cn          	106.39.36.209
+hy.cnpc.com.cn                	161.207.5.26
+mms.cnpc.com.cn               	114.251.197.203
+tfs.cnpc.com.cn               	106.39.36.194
+msg.cnpc.com.cn               	219.143.68.117, 61.232.0.33
+cy.cnpc.com.cn                	106.39.36.211
+pan.cnpc.com.cn               	114.255.212.51
+jc.cnpc.com.cn                	123.124.230.32
+classic.cnpc.com.cn           	161.207.5.6, 161.207.9.6
+center.cnpc.com.cn            	161.207.1.14
+baike.cnpc.com.cn             	106.39.36.209
+pad.cnpc.com.cn               	161.207.5.26
+csr.cnpc.com.cn               	161.207.5.26
+pool.cnpc.com.cn              	161.207.4.15
+emp.cnpc.com.cn               	114.255.212.39
+cbs.cnpc.com.cn               	123.124.230.2
+big5.cnpc.com.cn              	161.207.4.13
+vms.cnpc.com.cn               	106.39.36.167, 114.255.212.48
+zhaopin.cnpc.com.cn           	161.207.5.20
+mgw.cnpc.com.cn               	114.255.212.66
+device.cnpc.com.cn            	161.207.11.10
+sci.cnpc.com.cn               	106.39.36.209
+dq.cnpc.com.cn                	202.96.45.25
+portal.app.cnpc.com.cn        	114.255.212.14
+download.app.cnpc.com.cn      	114.255.212.13
+m.crm.cnpc.com.cn             	106.39.36.217
+www.hy.cnpc.com.cn            	161.207.1.71
+api.pan.cnpc.com.cn           	114.255.212.51
+portal.pan.cnpc.com.cn        	114.255.212.51

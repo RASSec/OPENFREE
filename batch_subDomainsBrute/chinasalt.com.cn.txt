@@ -1,0 +1,16 @@
+www.chinasalt.com.cn          	114.247.91.146
+admin.chinasalt.com.cn        	114.247.91.141
+hr.chinasalt.com.cn           	61.233.3.124
+ftp.chinasalt.com.cn          	120.132.51.12
+mobile.chinasalt.com.cn       	114.247.91.137
+pic.chinasalt.com.cn          	114.247.91.145
+vpn.chinasalt.com.cn          	114.247.91.136
+tj.chinasalt.com.cn           	114.247.91.133
+oa.chinasalt.com.cn           	61.233.3.114
+dns1.chinasalt.com.cn         	219.142.1.78, 61.148.48.58
+x.chinasalt.com.cn            	61.233.3.116
+beijing.chinasalt.com.cn      	114.247.91.142
+shanghai.chinasalt.com.cn     	114.247.91.144
+aj.chinasalt.com.cn           	114.247.91.139
+tianjin.chinasalt.com.cn      	114.247.91.144
+anhui.chinasalt.com.cn        	114.247.91.142

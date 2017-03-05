@@ -1,0 +1,4 @@
+www.cngc.com.cn               	210.73.52.203
+platform.cngc.com.cn          	210.73.52.7
+pop3.cngc.com.cn              	159.226.251.14
+smtp.cngc.com.cn              	159.226.251.11

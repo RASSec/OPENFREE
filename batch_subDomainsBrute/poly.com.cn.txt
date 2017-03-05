@@ -1,0 +1,7 @@
+www.poly.com.cn               	210.13.254.134
+mail.poly.com.cn              	42.156.140.99
+m.poly.com.cn                 	42.121.103.112
+pop3.poly.com.cn              	42.120.219.25
+smtp.poly.com.cn              	42.120.219.29
+finance.poly.com.cn           	210.13.254.129
+energy.poly.com.cn            	210.13.254.130

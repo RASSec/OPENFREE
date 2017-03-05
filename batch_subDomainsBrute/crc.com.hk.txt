@@ -1,0 +1,20 @@
+www.crc.com.hk                	203.161.4.57, 203.161.4.58
+home.crc.com.hk               	203.161.4.57, 203.161.4.58
+en.crc.com.hk                 	203.161.4.57, 203.161.4.58
+mail.crc.com.hk               	112.91.224.34, 218.13.52.34
+webmail.crc.com.hk            	112.91.224.34, 218.13.52.34
+media.crc.com.hk              	112.91.224.37, 218.13.52.37
+legacy.crc.com.hk             	112.95.150.18, 119.147.86.210
+so.crc.com.hk                 	112.91.224.28, 218.13.52.28
+vpn1.crc.com.hk               	210.21.207.73
+imail.crc.com.hk              	112.91.224.11
+owa.crc.com.hk                	202.86.252.206
+rss.crc.com.hk                	203.161.4.80
+pop3.crc.com.hk               	203.161.4.189
+pop.crc.com.hk                	203.161.4.189
+smtp.crc.com.hk               	203.161.4.26
+msg.crc.com.hk                	202.86.252.206
+audit.crc.com.hk              	202.86.252.208
+space.crc.com.hk              	118.142.1.244
+xyz.crc.com.hk                	203.161.4.253
+his.crc.com.hk                	112.91.224.18, 218.13.52.18

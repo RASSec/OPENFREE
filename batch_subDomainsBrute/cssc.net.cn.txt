@@ -1,0 +1,15 @@
+www.cssc.net.cn               	211.157.110.7
+mail.cssc.net.cn              	211.157.110.40
+mail2.cssc.net.cn             	211.157.110.40
+seri.cssc.net.cn              	211.157.110.35
+sem.cssc.net.cn               	211.157.110.36
+hr.cssc.net.cn                	211.157.110.36
+wz.cssc.net.cn                	211.157.110.36
+safe.cssc.net.cn              	211.157.110.36
+bs.cssc.net.cn                	211.157.110.35
+mysql.cssc.net.cn             	211.157.110.35
+sh.cssc.net.cn                	211.157.110.35
+mail1.cssc.net.cn             	211.157.110.40
+gk.cssc.net.cn                	211.157.110.42
+cmc.cssc.net.cn               	211.157.110.7
+mail.seri.cssc.net.cn         	211.157.110.40

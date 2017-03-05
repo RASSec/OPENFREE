@@ -1,0 +1,10 @@
+www.dfmc.com.cn               	58.49.84.24
+mail.dfmc.com.cn              	58.49.84.21
+fa.dfmc.com.cn                	220.249.93.239
+m.dfmc.com.cn                 	220.249.93.243
+hr.dfmc.com.cn                	202.103.49.246
+youth.dfmc.com.cn             	58.49.84.33
+owa.dfmc.com.cn               	220.249.93.233, 58.49.84.21
+smtp.dfmc.com.cn              	58.49.84.22
+vote.dfmc.com.cn              	58.49.84.96
+weixin.dfmc.com.cn            	220.249.93.240, 58.49.84.82

@@ -1,0 +1,7 @@
+www.csic.com.cn               	218.249.41.13
+mail.csic.com.cn              	218.249.41.4
+pop3.csic.com.cn              	218.249.41.4
+smtp.csic.com.cn              	218.249.41.4
+peixun.csic.com.cn            	218.249.41.16
+rdc.csic.com.cn               	218.249.41.50
+zhaopin.csic.com.cn           	218.249.41.16

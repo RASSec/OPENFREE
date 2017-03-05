@@ -1,0 +1,4 @@
+www.cadreg.com.cn             	121.40.45.25
+en.cadreg.com.cn              	123.57.154.76
+wp.cadreg.com.cn              	60.194.6.27
+stc.cadreg.com.cn             	114.242.120.147

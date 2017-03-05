@@ -1,0 +1,10 @@
+www.ccteg.cn                  	114.255.156.126
+en.ccteg.cn                   	114.255.156.126
+mail.ccteg.cn                 	114.255.156.125
+hr.ccteg.cn                   	124.207.200.226
+all.ccteg.cn                  	114.255.156.126
+ru.ccteg.cn                   	114.255.156.126
+an.ccteg.cn                   	114.255.156.106
+pop3.ccteg.cn                 	114.255.156.125
+smtp.ccteg.cn                 	114.255.156.125
+jy.ccteg.cn                   	124.207.156.204

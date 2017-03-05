@@ -1,0 +1,13 @@
+mail.crecg.com                	220.194.14.119
+bbs.crecg.com                 	220.194.14.112
+www.crecg.com                 	220.194.14.118
+mp2.crecg.com                 	220.194.14.109
+conf.crecg.com                	220.194.14.80
+conference.crecg.com          	220.194.14.124
+mx1.crecg.com                 	220.194.14.76
+gateway.crecg.com             	220.194.14.120
+sip.crecg.com                 	220.194.14.75
+oa.crecg.com                  	220.194.14.110
+meeting.crecg.com             	211.98.28.124
+mx2.crecg.com                 	220.194.14.79
+ocs.crecg.com                 	220.194.14.73

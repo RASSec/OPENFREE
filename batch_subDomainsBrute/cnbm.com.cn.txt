@@ -1,0 +1,5 @@
+www.cnbm.com.cn               	111.205.100.164
+mail.cnbm.com.cn              	111.205.100.157
+ftp.cnbm.com.cn               	202.106.72.69
+cf.cnbm.com.cn                	202.106.72.111
+mail01.cnbm.com.cn            	202.106.72.66

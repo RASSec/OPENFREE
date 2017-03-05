@@ -1,0 +1,22 @@
+www.alcatel-sbell.com.cn      	211.144.223.52
+mail.alcatel-sbell.com.cn     	211.144.222.231
+webmail.alcatel-sbell.com.cn  	211.144.215.40
+partner.alcatel-sbell.com.cn  	210.52.216.14
+ts.alcatel-sbell.com.cn       	116.246.26.15
+m.alcatel-sbell.com.cn        	211.144.215.75
+sistema.alcatel-sbell.com.cn  	211.144.215.40
+access.alcatel-sbell.com.cn   	211.144.215.54
+vpn.alcatel-sbell.com.cn      	123.125.121.25
+pki.alcatel-sbell.com.cn      	211.144.215.19
+enterprise.alcatel-sbell.com.cn	180.166.166.170
+ns.alcatel-sbell.com.cn       	211.144.215.32
+owa.alcatel-sbell.com.cn      	211.144.215.40
+www6.alcatel-sbell.com.cn     	211.144.215.40
+join.alcatel-sbell.com.cn     	211.144.222.232
+csc.alcatel-sbell.com.cn      	211.144.223.53
+sip.alcatel-sbell.com.cn      	116.246.26.100, 116.246.26.102
+recruit.alcatel-sbell.com.cn  	211.144.223.52
+libra.alcatel-sbell.com.cn    	211.144.215.24
+ad1.alcatel-sbell.com.cn      	116.246.26.88
+ad2.alcatel-sbell.com.cn      	123.125.121.26
+rap.alcatel-sbell.com.cn      	211.144.215.55

@@ -1,0 +1,15 @@
+www.sinopharm.com             	114.251.127.68
+i.sinopharm.com               	114.251.127.68
+mail.sinopharm.com            	114.251.127.88
+e.sinopharm.com               	114.251.127.87
+portal.sinopharm.com          	114.251.127.68
+p.sinopharm.com               	124.127.98.154
+m.sinopharm.com               	114.251.127.68
+vpn.sinopharm.com             	114.251.127.76
+link.sinopharm.com            	114.251.127.92
+ns.sinopharm.com              	114.251.127.70, 124.127.98.170
+oa.sinopharm.com              	114.251.127.73
+mdm.sinopharm.com             	114.251.127.67
+s3.sinopharm.com              	124.127.98.152
+wechat.sinopharm.com          	124.127.98.185
+esb.sinopharm.com             	114.251.127.82

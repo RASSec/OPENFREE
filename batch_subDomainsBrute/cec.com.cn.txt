@@ -1,0 +1,7 @@
+www.cec.com.cn                	114.255.207.168
+mail.cec.com.cn               	114.255.207.176
+www1.cec.com.cn               	114.255.207.169
+mail1.cec.com.cn              	114.255.207.173
+ssl.cec.com.cn                	114.255.207.166
+jd.cec.com.cn                 	114.255.207.190
+zhaopin.cec.com.cn            	114.255.207.189

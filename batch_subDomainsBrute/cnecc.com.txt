@@ -1,0 +1,14 @@
+www.cnecc.com                 	219.143.116.68
+office.cnecc.com              	42.159.4.68
+en.cnecc.com                  	219.143.116.68
+mail.cnecc.com                	123.124.167.70, 219.143.116.70
+hr.cnecc.com                  	123.124.167.75
+group.cnecc.com               	123.124.167.68
+dns.cnecc.com                 	123.124.167.2, 219.143.116.66
+fs.cnecc.com                  	219.143.116.103
+nc.cnecc.com                  	123.124.167.72
+sip.cnecc.com                 	123.124.167.100
+oa.cnecc.com                  	219.143.116.69
+dialin.cnecc.com              	219.143.116.101
+meet.cnecc.com                	123.124.167.101
+msoid.cnecc.com               	42.159.32.36

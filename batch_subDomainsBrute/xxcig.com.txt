@@ -1,0 +1,12 @@
+www.xxcig.com                 	118.26.23.230
+en.xxcig.com                  	118.26.23.230
+mail.xxcig.com                	112.90.77.178, 112.90.78.157
+home.xxcig.com                	10.8.8.97
+c.xxcig.com                   	111.202.133.85
+conference.xxcig.com          	111.202.133.85
+vpn.xxcig.com                 	111.13.139.244
+exchange.xxcig.com            	118.26.23.228
+pop.xxcig.com                 	163.177.72.143, 163.177.90.125
+smtp.xxcig.com                	163.177.72.143, 163.177.90.125
+ssl.xxcig.com                 	118.26.23.236
+english.xxcig.com             	118.26.23.230

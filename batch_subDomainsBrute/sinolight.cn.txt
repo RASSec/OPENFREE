@@ -1,0 +1,5 @@
+www.sinolight.cn              	114.255.243.45
+mail.sinolight.cn             	211.150.64.54
+smc.sinolight.cn              	114.255.243.45
+pop.sinolight.cn              	211.150.82.7, 211.150.82.8
+smtp.sinolight.cn             	120.52.48.5

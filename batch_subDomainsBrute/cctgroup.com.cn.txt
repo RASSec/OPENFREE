@@ -1,0 +1,8 @@
+www.cctgroup.com.cn           	61.232.14.107
+mail.cctgroup.com.cn          	114.247.42.156
+cnc.cctgroup.com.cn           	202.96.58.169
+web.cctgroup.com.cn           	61.232.14.107
+vpn.cctgroup.com.cn           	106.37.165.123
+mx.cctgroup.com.cn            	114.247.42.156
+fax.cctgroup.com.cn           	61.232.14.102
+ct.cctgroup.com.cn            	106.37.165.124

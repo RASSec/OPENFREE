@@ -1,0 +1,2 @@
+www.cfhi.com                  	61.167.79.131
+mail.cfhi.com                 	61.167.79.134

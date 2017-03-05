@@ -1,0 +1,5 @@
+www.china-cdt.com             	219.141.254.253
+gw.china-cdt.com              	211.160.17.3
+mail.china-cdt.com            	211.160.17.3
+ns.china-cdt.com              	211.99.25.1
+smtp.china-cdt.com            	211.160.17.3

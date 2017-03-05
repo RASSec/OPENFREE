@@ -1,0 +1,8 @@
+www.cabr.com.cn               	111.205.57.11
+hr.cabr.com.cn                	111.205.57.19
+mail.cabr.com.cn              	112.90.77.178, 112.90.78.157
+test.cabr.com.cn              	111.205.57.200
+pop.cabr.com.cn               	163.177.72.143, 163.177.90.125
+smtp.cabr.com.cn              	163.177.72.143, 163.177.90.125
+oa.cabr.com.cn                	111.205.57.11
+imap.cabr.com.cn              	163.177.72.143, 163.177.90.125

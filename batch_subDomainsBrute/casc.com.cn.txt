@@ -1,0 +1,9 @@
+mail.casc.com.cn              	112.90.77.178, 112.90.78.157
+www.casc.com.cn               	114.242.74.34
+vpn.casc.com.cn               	114.242.74.36
+pop.casc.com.cn               	163.177.72.143, 163.177.90.125
+smtp.casc.com.cn              	163.177.72.143, 163.177.90.125
+imap.casc.com.cn              	163.177.72.143, 163.177.90.125
+oa.casc.com.cn                	192.168.100.103
+moa.casc.com.cn               	114.242.74.37
+exmail.casc.com.cn            	114.242.74.35

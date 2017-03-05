@@ -1,0 +1,11 @@
+www.ciecc.com.cn              	202.96.52.251
+sms.ciecc.com.cn              	202.96.52.236
+dns.ciecc.com.cn              	202.96.52.253
+owa.ciecc.com.cn              	202.96.52.163
+map.ciecc.com.cn              	202.96.52.161
+pop3.ciecc.com.cn             	202.96.52.238
+smtp.ciecc.com.cn             	202.96.52.238
+english.ciecc.com.cn          	202.96.52.251
+gis.ciecc.com.cn              	202.96.52.161
+ce.ciecc.com.cn               	202.96.52.161
+suzhou.ciecc.com.cn           	202.96.52.251

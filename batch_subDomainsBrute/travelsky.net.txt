@@ -1,0 +1,16 @@
+www.travelsky.net             	122.119.122.92
+home.travelsky.net            	202.106.139.29
+wap.travelsky.net             	122.119.122.92
+ca.travelsky.net              	122.119.122.82
+bj.travelsky.net              	122.119.122.82
+sz.travelsky.net              	219.134.185.13
+db.travelsky.net              	218.61.142.169
+hb.travelsky.net              	59.173.61.170
+beijing.travelsky.net         	122.119.122.92
+shanghai.travelsky.net        	122.119.122.92
+xa.travelsky.net              	122.119.122.92
+amp.travelsky.net             	10.6.151.16
+xm.travelsky.net              	122.119.122.92
+guangzhou.travelsky.net       	122.119.122.92
+xn.travelsky.net              	125.71.215.5
+bluesky.travelsky.net         	202.106.139.6

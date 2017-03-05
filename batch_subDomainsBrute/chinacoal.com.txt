@@ -1,0 +1,10 @@
+www.chinacoal.com             	219.143.69.200, 219.232.115.20
+search.chinacoal.com          	219.143.69.199, 219.232.115.55
+mail.chinacoal.com            	219.143.69.201, 219.232.115.21
+vpn1.chinacoal.com            	219.143.69.203, 219.232.115.25
+vpn.chinacoal.com             	219.143.69.207, 219.232.115.35
+cg.chinacoal.com              	219.143.69.209, 219.232.115.92
+dns3.chinacoal.com            	10.1.1.13
+mail1.chinacoal.com           	219.143.69.201
+dns1.chinacoal.com            	10.1.1.11
+marketing.chinacoal.com       	219.143.69.210, 219.232.115.93

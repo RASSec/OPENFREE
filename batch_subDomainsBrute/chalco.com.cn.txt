@@ -1,0 +1,11 @@
+www.chalco.com.cn             	202.106.90.143
+hr.chalco.com.cn              	202.106.90.191
+i.chalco.com.cn               	202.106.90.151
+mail.chalco.com.cn            	202.106.90.140
+antispam.chalco.com.cn        	202.106.90.140
+pop3.chalco.com.cn            	61.178.89.170
+smtp.chalco.com.cn            	61.178.89.170
+finance.chalco.com.cn         	114.247.38.68
+wx.chalco.com.cn              	202.106.90.162
+sus.chalco.com.cn             	202.106.90.166
+ict.chalco.com.cn             	202.106.90.193

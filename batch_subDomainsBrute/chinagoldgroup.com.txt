@@ -1,0 +1,14 @@
+www.chinagoldgroup.com        	123.127.35.136
+mail.chinagoldgroup.com       	112.90.77.178, 112.90.78.157
+portal.chinagoldgroup.com     	10.80.100.29
+wap.chinagoldgroup.com        	123.127.35.136
+m.chinagoldgroup.com          	42.121.103.112
+tech.chinagoldgroup.com       	10.80.100.85
+vpn.chinagoldgroup.com        	1.202.238.165
+cg.chinagoldgroup.com         	123.127.35.141
+im.chinagoldgroup.com         	10.80.100.27
+pop.chinagoldgroup.com        	163.177.72.143, 163.177.90.125
+smtp.chinagoldgroup.com       	163.177.72.143, 163.177.90.125
+oa.chinagoldgroup.com         	10.80.100.22
+cq.chinagoldgroup.com         	123.127.35.144
+dss.chinagoldgroup.com        	10.80.100.24

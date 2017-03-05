@@ -1,0 +1,12 @@
+www.ansteel.cn                	221.203.30.23
+search.ansteel.cn             	221.203.30.59
+en.ansteel.cn                 	221.203.30.23
+ftp.ansteel.cn                	219.149.21.51
+mx1.ansteel.cn                	221.203.30.25
+public.ansteel.cn             	221.203.30.59
+mx2.ansteel.cn                	221.203.30.26
+sso.ansteel.cn                	221.203.30.59
+ess.ansteel.cn                	221.203.30.59, 59.44.153.251
+mob.ansteel.cn                	59.44.153.222
+eb.ansteel.cn                 	221.203.30.59
+mails.ansteel.cn              	221.203.30.8, 59.44.153.198

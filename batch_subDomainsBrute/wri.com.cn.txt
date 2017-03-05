@@ -1,0 +1,9 @@
+www.wri.com.cn                	59.175.214.3
+webmail.wri.com.cn            	59.172.207.52
+vpn.wri.com.cn                	59.172.207.50
+meet.wri.com.cn               	59.175.214.9
+sip.wri.com.cn                	59.175.214.9
+dialin.wri.com.cn             	59.175.214.9
+dns2.wri.com.cn               	59.172.207.62
+job.wri.com.cn                	59.175.214.3
+dns1.wri.com.cn               	59.175.214.4

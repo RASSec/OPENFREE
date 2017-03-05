@@ -1,0 +1,8 @@
+www.ctgpc.com.cn              	114.251.218.3
+sa.ctgpc.com.cn               	114.251.218.9
+mobile.ctgpc.com.cn           	114.251.218.29
+email.ctgpc.com.cn            	211.150.64.54
+pop3.ctgpc.com.cn             	120.52.48.5
+smtp.ctgpc.com.cn             	120.52.48.5
+imap.ctgpc.com.cn             	120.52.48.5
+ym.ctgpc.com.cn               	59.175.239.231

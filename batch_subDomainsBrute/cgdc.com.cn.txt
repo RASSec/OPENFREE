@@ -1,0 +1,8 @@
+www.cgdc.com.cn               	114.255.154.10, 219.142.82.10
+mail.cgdc.com.cn              	219.142.82.6
+vpn.cgdc.com.cn               	114.255.154.9
+nm.cgdc.com.cn                	219.142.82.6
+lx.cgdc.com.cn                	219.142.82.16
+moa.cgdc.com.cn               	114.255.154.36
+pmp.cgdc.com.cn               	219.142.82.250
+mail.nm.cgdc.com.cn           	219.142.82.6

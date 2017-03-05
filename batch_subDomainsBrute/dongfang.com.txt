@@ -1,0 +1,14 @@
+mail.dongfang.com             	119.6.15.38
+www.dongfang.com              	119.6.15.62
+hd.dongfang.com               	118.114.237.122
+is.dongfang.com               	119.6.15.48
+mobile.dongfang.com           	119.6.15.51
+pptp.dongfang.com             	61.157.77.37
+vpn1.dongfang.com             	119.6.15.51
+vpn.dongfang.com              	119.6.15.51
+oa.dongfang.com               	119.6.15.42
+smtp.dongfang.com             	125.71.27.231
+svn.dongfang.com              	119.16.15.58
+gate.dongfang.com             	125.71.27.231
+srm.dongfang.com              	118.114.237.99, 119.6.15.59
+lis.dongfang.com              	119.6.15.46

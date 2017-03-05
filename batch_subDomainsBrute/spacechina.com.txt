@@ -1,0 +1,23 @@
+www.spacechina.com            	1.202.156.62, 114.242.111.15
+search.spacechina.com         	1.202.156.47
+sms.spacechina.com            	1.202.156.55, 114.242.111.8
+m.spacechina.com              	1.202.156.62, 114.242.111.15
+ap.spacechina.com             	210.82.31.66
+hr.spacechina.com             	1.202.156.25, 114.242.111.1
+mail.spacechina.com           	1.202.156.61, 114.242.111.3
+2012.spacechina.com           	1.202.156.62, 114.242.111.15
+2011.spacechina.com           	1.202.156.62, 114.242.111.15
+relay.spacechina.com          	210.82.31.95
+file.spacechina.com           	1.202.156.62, 114.242.111.2
+ms.spacechina.com             	1.202.156.61, 114.242.111.3
+english.spacechina.com        	1.202.156.62, 114.242.111.15
+test2.spacechina.com          	1.202.156.62, 114.242.111.15
+test1.spacechina.com          	1.202.156.62, 114.242.111.15
+jk.spacechina.com             	1.202.156.23, 114.242.111.40
+jd.spacechina.com             	210.82.31.82
+mailgw.spacechina.com         	1.202.156.58, 114.242.111.6
+company.spacechina.com        	1.202.156.60, 114.242.111.4
+2010.spacechina.com           	1.202.156.45, 114.242.111.2
+ares.spacechina.com           	1.202.156.54, 114.242.111.9
+dbs.spacechina.com            	210.82.31.78
+shipin.spacechina.com         	1.202.156.48, 114.242.111.16

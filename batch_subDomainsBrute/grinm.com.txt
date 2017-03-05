@@ -1,0 +1,6 @@
+www.grinm.com                 	111.207.177.10
+mail.grinm.com                	211.150.64.54
+ftp.grinm.com                 	111.207.177.10
+en.grinm.com                  	111.207.177.11
+pop.grinm.com                 	120.52.48.5
+smtp.grinm.com                	120.52.48.5

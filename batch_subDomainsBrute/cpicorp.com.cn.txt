@@ -1,0 +1,10 @@
+www.cpicorp.com.cn            	223.72.152.77
+info.cpicorp.com.cn           	211.160.21.133
+eng.cpicorp.com.cn            	202.96.63.69
+supplier.cpicorp.com.cn       	202.96.63.88
+vpn.cpicorp.com.cn            	223.72.152.81
+pop3.cpicorp.com.cn           	211.160.21.137
+smtp.cpicorp.com.cn           	211.160.21.137
+mail1.cpicorp.com.cn          	106.37.170.218
+mdm.cpicorp.com.cn            	106.37.170.203
+zhaopin.cpicorp.com.cn        	223.72.152.72

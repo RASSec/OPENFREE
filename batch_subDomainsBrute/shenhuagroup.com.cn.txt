@@ -1,0 +1,14 @@
+www.shenhuagroup.com.cn       	61.240.144.210
+mail2.shenhuagroup.com.cn     	219.143.70.38
+dns.shenhuagroup.com.cn       	219.143.70.124
+ftp.shenhuagroup.com.cn       	219.238.174.147
+mobile.shenhuagroup.com.cn    	219.143.70.72
+old.shenhuagroup.com.cn       	219.238.174.145
+mx.shenhuagroup.com.cn        	219.143.70.112
+dns3.shenhuagroup.com.cn      	219.238.174.136
+dns1.shenhuagroup.com.cn      	219.143.70.16
+dns2.shenhuagroup.com.cn      	122.70.113.20
+ssl.shenhuagroup.com.cn       	219.238.174.189
+lp.shenhuagroup.com.cn        	122.70.114.5, 219.143.70.5
+mms.shenhuagroup.com.cn       	122.70.114.11, 219.143.70.13, 219.238.174.152
+zhaopin.shenhuagroup.com.cn   	61.240.144.210

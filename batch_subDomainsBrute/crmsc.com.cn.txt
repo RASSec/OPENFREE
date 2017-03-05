@@ -1,0 +1,12 @@
+www.crmsc.com.cn              	61.237.224.165
+ns1.crmsc.com.cn              	61.237.224.162
+mail.crmsc.com.cn             	61.237.224.166
+m.crmsc.com.cn                	60.247.27.183
+vpn.crmsc.com.cn              	60.247.27.182
+ht.crmsc.com.cn               	60.247.27.180
+ns2.crmsc.com.cn              	61.233.19.162
+b2b.crmsc.com.cn              	183.2.174.146
+oa.crmsc.com.cn               	60.247.27.185
+ns3.crmsc.com.cn              	60.247.27.162
+cdc.crmsc.com.cn              	118.122.94.199
+pds.crmsc.com.cn              	121.101.217.4

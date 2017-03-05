@@ -1,0 +1,4 @@
+www.aecc.cn                   	106.39.81.34
+pop3.aecc.cn                  	106.39.81.46
+mall.aecc.cn                  	60.205.131.214
+smtp.aecc.cn                  	106.39.81.46

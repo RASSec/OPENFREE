@@ -1,0 +1,16 @@
+www.cnaf.com                  	61.240.144.223
+mail.cnaf.com                 	219.143.3.189
+home.cnaf.com                 	10.18.1.78
+archives.cnaf.com             	10.18.1.201
+vpn1.cnaf.com                 	111.203.202.59
+vpn2.cnaf.com                 	219.143.3.186
+vpn.cnaf.com                  	124.42.80.167
+mx1.cnaf.com                  	111.203.202.62
+ns.cnaf.com                   	219.143.3.164
+smtp.cnaf.com                 	124.42.80.176
+mx2.cnaf.com                  	219.143.3.189
+ssl.cnaf.com                  	111.203.202.60
+fc.cnaf.com                   	111.203.202.53, 219.143.3.187
+wl.cnaf.com                   	111.203.202.57
+sap.cnaf.com                  	111.203.202.61
+moa.cnaf.com                  	111.203.202.42

@@ -1,0 +1,8 @@
+www.cfgc.cn                   	182.92.160.87
+mail.cfgc.cn                  	118.244.197.56
+en.cfgc.cn                    	182.92.160.87
+pop.cfgc.cn                   	118.244.197.56
+db.cfgc.cn                    	61.155.154.143
+imap.cfgc.cn                  	118.244.197.56
+smtp.cfgc.cn                  	118.244.197.56
+eq.cfgc.cn                    	118.244.197.56

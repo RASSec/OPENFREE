@@ -1,0 +1,17 @@
+www.cnnc.com.cn               	202.96.14.5
+ns1.cnnc.com.cn               	219.143.33.194
+en.cnnc.com.cn                	111.13.49.243
+mail.cnnc.com.cn              	202.96.14.2
+video.cnnc.com.cn             	202.96.14.24
+hr.cnnc.com.cn                	117.121.30.35
+uk.cnnc.com.cn                	114.251.25.106
+vpn.cnnc.com.cn               	202.96.14.101
+hn.cnnc.com.cn                	202.96.14.78
+md.cnnc.com.cn                	202.96.14.103
+ns.cnnc.com.cn                	202.96.14.1
+ps.cnnc.com.cn                	219.143.33.201
+survey.cnnc.com.cn            	219.143.33.205
+ssl.cnnc.com.cn               	202.96.14.39
+mdm.cnnc.com.cn               	202.96.14.143
+pm.cnnc.com.cn                	202.96.14.113
+ft.cnnc.com.cn                	202.96.14.5

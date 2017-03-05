@@ -1,0 +1,5 @@
+www.cisri.com.cn              	219.234.197.232
+mail.cisri.com.cn             	219.234.197.228
+products.cisri.com.cn         	112.126.75.240
+oa.cisri.com.cn               	192.168.1.4
+zy.cisri.com.cn               	192.168.1.6

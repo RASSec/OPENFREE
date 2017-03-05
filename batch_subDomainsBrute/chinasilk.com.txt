@@ -1,0 +1,4 @@
+www.chinasilk.com             	114.215.99.25
+m.chinasilk.com               	42.121.103.112
+pop3.chinasilk.com            	42.120.219.25
+smtp.chinasilk.com            	42.120.219.29

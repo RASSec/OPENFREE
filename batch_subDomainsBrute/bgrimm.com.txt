@@ -1,0 +1,6 @@
+www.bgrimm.com                	106.39.20.221
+mail.bgrimm.com               	106.39.20.217
+www1.bgrimm.com               	106.39.20.221
+mis.bgrimm.com                	106.39.20.211
+english.bgrimm.com            	106.39.20.221
+hj.bgrimm.com                 	221.204.213.32

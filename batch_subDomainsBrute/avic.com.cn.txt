@@ -1,0 +1,7 @@
+www.avic.com.cn               	114.255.242.158
+email.avic.com.cn             	114.255.242.134
+auth.avic.com.cn              	114.255.242.134
+ns.avic.com.cn                	124.42.68.130
+dns3.avic.com.cn              	124.205.230.227
+smtp.avic.com.cn              	114.255.242.166
+lp.avic.com.cn                	1.202.199.28, 114.255.242.20

@@ -1,0 +1,17 @@
+www.cgnpc.com.cn              	210.83.228.8
+app.cgnpc.com.cn              	210.83.228.36
+en.cgnpc.com.cn               	210.83.228.8
+hr.cgnpc.com.cn               	210.83.228.8
+citrix.cgnpc.com.cn           	210.83.228.28
+vpn.cgnpc.com.cn              	210.83.228.22
+ns.cgnpc.com.cn               	210.83.228.7
+file.cgnpc.com.cn             	210.83.228.20
+ns2.cgnpc.com.cn              	121.15.139.135
+b2b.cgnpc.com.cn              	210.83.228.31
+job.cgnpc.com.cn              	210.83.228.33
+sentry.cgnpc.com.cn           	210.83.228.58
+campus.cgnpc.com.cn           	210.83.228.33
+sbc.cgnpc.com.cn              	121.15.139.150
+jc.cgnpc.com.cn               	121.15.139.225
+fms.cgnpc.com.cn              	210.83.228.8
+vc.cgnpc.com.cn               	121.15.139.150, 210.83.228.42

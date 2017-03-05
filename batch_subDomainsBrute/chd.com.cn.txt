@@ -1,0 +1,13 @@
+www.chd.com.cn                	202.60.112.8
+mail.chd.com.cn               	202.60.112.68
+m.chd.com.cn                  	202.60.112.8
+wsp.chd.com.cn                	202.60.112.201
+eng.chd.com.cn                	202.60.112.8
+ra.chd.com.cn                 	202.60.112.59
+mx1.chd.com.cn                	202.60.112.9
+pop3.chd.com.cn               	202.60.112.68
+smtp.chd.com.cn               	202.60.112.68
+mx2.chd.com.cn                	202.60.112.10
+dy.chd.com.cn                 	202.60.112.8
+cluster.chd.com.cn            	202.60.112.24
+zhaopin.chd.com.cn            	202.60.112.12

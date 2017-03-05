@@ -1,0 +1,33 @@
+www.powerchina.cn             	61.240.144.202
+s.powerchina.cn               	61.240.144.202
+m.powerchina.cn               	219.141.230.149
+mail.powerchina.cn            	61.240.144.202
+dj.powerchina.cn              	61.240.144.202
+en.powerchina.cn              	121.22.246.103, 60.8.123.158
+pr.powerchina.cn              	61.240.144.202
+vpn2.powerchina.cn            	219.141.230.156
+vpn.powerchina.cn             	123.127.213.16
+email.powerchina.cn           	61.240.144.202
+ec.powerchina.cn              	61.240.144.202
+gh.powerchina.cn              	61.240.144.202
+mx.powerchina.cn              	123.127.213.27
+sr.powerchina.cn              	61.240.144.202
+vc.powerchina.cn              	219.141.230.142
+ww.powerchina.cn              	123.127.213.27
+pop3.powerchina.cn            	123.127.213.27
+mall.powerchina.cn            	123.127.213.133, 219.141.230.185
+smtp.powerchina.cn            	123.127.213.27
+imap.powerchina.cn            	123.127.213.27
+finance.powerchina.cn         	61.240.144.202
+uc.powerchina.cn              	123.127.213.62
+cq.powerchina.cn              	61.240.144.202
+pop.powerchina.cn             	123.127.213.27
+dt.powerchina.cn              	61.240.144.202
+pan.powerchina.cn             	61.240.144.202
+kj.powerchina.cn              	61.240.144.202
+vcs.powerchina.cn             	110.52.223.63
+tl.powerchina.cn              	61.240.144.202
+moa.powerchina.cn             	123.127.213.55
+fund.powerchina.cn            	61.240.144.202
+fdc.powerchina.cn             	61.240.144.202
+tianjin.powerchina.cn         	61.240.144.202

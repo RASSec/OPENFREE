@@ -1,0 +1,8 @@
+www.chinaunicom.com.cn        	123.125.96.216
+mail.chinaunicom.com.cn       	211.94.36.20
+club.chinaunicom.com.cn       	211.94.95.103
+spam.chinaunicom.com.cn       	211.94.33.141
+www2.chinaunicom.com.cn       	211.94.95.99
+noc.chinaunicom.com.cn        	211.94.33.141
+netlab.chinaunicom.com.cn     	114.255.193.252
+bear.chinaunicom.com.cn       	211.94.33.215

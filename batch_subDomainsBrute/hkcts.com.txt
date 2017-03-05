@@ -1,0 +1,33 @@
+mail.hkcts.com                	58.251.19.198
+support.hkcts.com             	192.168.28.122
+video.hkcts.com               	121.30.196.117, 220.194.200.232
+www.hkcts.com                 	58.251.19.210
+new.hkcts.com                 	113.98.240.97
+portal.hkcts.com              	58.251.19.221
+webmail.hkcts.com             	58.251.19.198
+hr.hkcts.com                  	113.98.240.80
+ftp.hkcts.com                 	210.177.232.219
+test.hkcts.com                	202.104.135.67
+gd.hkcts.com                  	121.14.59.79
+citrix.hkcts.com              	58.251.19.199
+vpn.hkcts.com                 	58.251.19.205
+hn.hkcts.com                  	121.14.59.79
+at.hkcts.com                  	118.143.11.137
+fl.hkcts.com                  	202.104.135.71
+ns2.hkcts.com                 	202.82.183.172
+pop3.hkcts.com                	58.251.19.198
+oa.hkcts.com                  	58.251.19.249
+dns2.hkcts.com                	58.251.19.238
+dns1.hkcts.com                	113.98.240.65
+smtp.hkcts.com                	58.251.19.198
+imap.hkcts.com                	58.251.19.198
+sso.hkcts.com                 	58.251.19.235
+finance.hkcts.com             	58.251.19.216
+china.hkcts.com               	182.16.4.141
+vod.hkcts.com                 	124.163.204.100, 124.163.205.99, 218.12.228.217, 221.194.180.49
+pan.hkcts.com                 	58.251.19.245
+sss.hkcts.com                 	58.251.19.228
+fin.hkcts.com                 	58.251.19.220
+moa.hkcts.com                 	58.251.19.243
+message.hkcts.com             	113.98.240.75
+oa2.hkcts.com                 	58.251.19.250

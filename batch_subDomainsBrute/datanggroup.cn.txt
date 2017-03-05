@@ -1,0 +1,13 @@
+www.datanggroup.cn            	114.255.113.166
+lab.datanggroup.cn            	220.231.61.240
+en.datanggroup.cn             	114.255.113.176
+mail.datanggroup.cn           	114.255.113.168
+hr.datanggroup.cn             	114.255.113.181
+telecom.datanggroup.cn        	219.141.223.5
+legacy.datanggroup.cn         	114.255.113.189
+mobile.datanggroup.cn         	219.142.67.31
+erp.datanggroup.cn            	114.255.113.171
+test.datanggroup.cn           	114.255.113.166
+vpn.datanggroup.cn            	114.255.113.163
+finance.datanggroup.cn        	114.255.113.166
+capital.datanggroup.cn        	180.178.38.77

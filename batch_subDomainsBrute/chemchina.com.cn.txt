@@ -1,0 +1,7 @@
+www.chemchina.com.cn          	114.255.200.151
+m.chemchina.com.cn            	114.255.200.175
+mail.chemchina.com.cn         	114.251.241.4
+ps.chemchina.com.cn           	114.255.200.140
+pm.chemchina.com.cn           	114.255.200.154
+gate.chemchina.com.cn         	114.251.241.10
+dss.chemchina.com.cn          	114.255.200.150

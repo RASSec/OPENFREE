@@ -1,0 +1,6 @@
+www.cam.com.cn                	124.207.131.72
+mail.cam.com.cn               	124.207.131.71
+mis.cam.com.cn                	124.207.131.77
+oa.cam.com.cn                 	124.207.131.76
+smtp.cam.com.cn               	124.207.131.71
+bsc.cam.com.cn                	124.207.131.70

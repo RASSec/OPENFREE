@@ -1,0 +1,10 @@
+www.chng.com.cn               	124.17.25.193
+mail.chng.com.cn              	124.17.25.197
+youth.chng.com.cn             	124.17.25.193
+vpn.chng.com.cn               	124.17.25.16
+ec.chng.com.cn                	60.205.9.177
+mail1.chng.com.cn             	124.17.25.197
+mdm.chng.com.cn               	124.17.25.35
+srm.chng.com.cn               	124.17.25.40
+ao.chng.com.cn                	124.17.25.93
+passport.ec.chng.com.cn       	101.201.63.165

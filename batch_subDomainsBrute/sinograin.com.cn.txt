@@ -1,0 +1,23 @@
+mail.sinograin.com.cn         	114.247.62.153
+shop.sinograin.com.cn         	114.247.62.196
+en.sinograin.com.cn           	114.247.62.142
+www.sinograin.com.cn          	114.247.62.131
+sc.sinograin.com.cn           	182.150.25.184
+hr.sinograin.com.cn           	114.247.62.168
+vpn2.sinograin.com.cn         	106.37.198.52
+www1.sinograin.com.cn         	114.247.62.130
+nm.sinograin.com.cn           	116.113.17.214
+pop3.sinograin.com.cn         	114.247.62.153
+av.sinograin.com.cn           	114.247.62.197
+mall.sinograin.com.cn         	114.247.62.193
+js.sinograin.com.cn           	221.231.235.138
+imap.sinograin.com.cn         	114.247.62.153
+smtp.sinograin.com.cn         	114.247.62.153
+hb.sinograin.com.cn           	113.57.131.72
+trade.sinograin.com.cn        	125.46.15.208
+jx.sinograin.com.cn           	171.34.73.109, 58.17.45.122
+jl.sinograin.com.cn           	222.168.80.194
+ah.sinograin.com.cn           	61.190.92.228
+hl.sinograin.com.cn           	111.40.8.115
+ln.sinograin.com.cn           	218.61.132.116
+call.sinograin.com.cn         	114.247.62.140

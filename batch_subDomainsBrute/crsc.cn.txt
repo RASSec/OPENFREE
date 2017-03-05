@@ -1,0 +1,14 @@
+www.crsc.cn                   	118.186.223.163
+news.crsc.cn                  	118.186.223.161
+cms.crsc.cn                   	211.100.28.240
+wap.crsc.cn                   	211.100.61.87
+m.crsc.cn                     	118.186.223.142
+admin.crsc.cn                 	211.100.28.240
+www1.crsc.cn                  	219.143.3.12
+tx.crsc.cn                    	219.239.90.36
+mx.crsc.cn                    	118.186.223.146
+mx2.crsc.cn                   	219.143.3.6
+smtp2.crsc.cn                 	219.143.3.6
+dx.crsc.cn                    	118.186.223.157
+uc.crsc.cn                    	222.35.95.39
+smtp3.crsc.cn                 	118.186.223.146

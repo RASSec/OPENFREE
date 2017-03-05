@@ -1,0 +1,13 @@
+www.ceec.net.cn               	101.201.242.204
+en.ceec.net.cn                	60.205.132.156
+mail.ceec.net.cn              	42.156.140.99
+ns1.ceec.net.cn               	124.127.133.134
+group.ceec.net.cn             	101.201.242.204
+vpn.ceec.net.cn               	114.251.106.4
+ec.ceec.net.cn                	114.251.106.19
+im.ceec.net.cn                	124.127.39.9
+pop3.ceec.net.cn              	42.120.219.25
+smtp.ceec.net.cn              	42.120.219.29
+imap.ceec.net.cn              	42.120.219.28
+hy.ceec.net.cn                	114.251.106.32
+xc.ceec.net.cn                	124.127.39.7

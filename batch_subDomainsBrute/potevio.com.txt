@@ -1,0 +1,17 @@
+www.potevio.com               	125.35.15.49
+mail.potevio.com              	211.150.64.54
+ns1.potevio.com               	61.148.12.162
+wap.potevio.com               	125.35.15.49
+mobile.potevio.com            	125.35.15.44
+vpn.potevio.com               	125.35.15.35
+ht.potevio.com                	1.93.129.63
+ns2.potevio.com               	219.142.29.182
+b2b.potevio.com               	125.35.15.40
+pop.potevio.com               	120.52.48.5
+oa.potevio.com                	172.16.10.6
+imap.potevio.com              	120.52.48.5
+smtp.potevio.com              	120.52.48.5
+fax.potevio.com               	125.35.15.57
+rtx.potevio.com               	125.35.15.57
+moa.potevio.com               	1.93.193.66
+cdc.potevio.com               	118.122.113.70

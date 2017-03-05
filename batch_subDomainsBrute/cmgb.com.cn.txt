@@ -1,0 +1,7 @@
+www.cmgb.com.cn               	223.4.87.163
+mail.cmgb.com.cn              	114.251.134.141
+ftp.cmgb.com.cn               	114.251.134.144
+pop3.cmgb.com.cn              	114.251.134.141
+smtp.cmgb.com.cn              	114.251.134.141
+dns2.cmgb.com.cn              	219.143.69.232
+dns1.cmgb.com.cn              	219.143.69.231

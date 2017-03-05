@@ -1,0 +1,11 @@
+www.sinomach.com.cn           	106.0.5.5, 106.0.7.122, 183.78.183.109
+news.sinomach.com.cn          	114.251.11.200
+m.sinomach.com.cn             	114.251.11.214
+mail.sinomach.com.cn          	114.251.11.197
+ftp.sinomach.com.cn           	114.251.11.204
+mobile.sinomach.com.cn        	114.251.11.213
+nc.sinomach.com.cn            	114.251.11.195
+vpn.sinomach.com.cn           	114.251.11.198
+mdm.sinomach.com.cn           	114.251.11.217
+bi.sinomach.com.cn            	114.251.11.207
+report.sinomach.com.cn        	114.251.11.196

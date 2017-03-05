@@ -1,0 +1,4 @@
+www.casic.com.cn              	119.80.105.141
+mail.casic.com.cn             	119.80.105.144
+lt.casic.com.cn               	111.198.119.18
+dx.casic.com.cn               	101.54.63.101

@@ -1,0 +1,6 @@
+www.sdic.com.cn               	202.99.19.134
+ns1.sdic.com.cn               	202.99.19.132
+mail.sdic.com.cn              	202.99.19.141
+ns.sdic.com.cn                	202.99.19.131
+ssl.sdic.com.cn               	202.99.19.138
+eps.sdic.com.cn               	202.99.19.144

@@ -1,0 +1,6 @@
+www.cncec.cn                  	223.6.62.109
+m.cncec.cn                    	42.121.103.112
+ftp.cncec.cn                  	223.6.62.109
+pop3.cncec.cn                 	42.120.219.25
+smtp.cncec.cn                 	42.120.219.29
+ft.cncec.cn                   	112.127.54.96
