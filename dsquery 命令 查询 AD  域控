@@ -1,0 +1,79 @@
+描述: 该工具的命令集允许您根据指定的标准查询目录。
+除 dsquery * 之外 (dsquery * 可以查询任何类型的对象)，
+以下每一个 dsquery 命令均可查找一个特定对象类型:
+
+
+dsquery computer - 查找目录中的计算机。
+dsquery contact - 查找目录中的联系人。
+dsquery subnet - 查找目录中的子网。
+dsquery group - 查找目录中的组。
+dsquery ou - 查找目录中的组织单位。
+dsquery site - 查找目录中的站点。
+dsquery server - 查找目录中的 AD DC/LDS 实例。
+dsquery user - 查找目录中的用户。
+dsquery quota - 查找目录中的配额规定。
+dsquery partition - 查找目录中的分区。
+dsquery * - 用通用的 LDAP 查询来查找目录中的任何对象。
+
+若要查找特定命令的帮助，请键入 "dsquery <ObjectType> /?"，其中
+<ObjectType> 是以上所示的受支持对象类型之一。
+例如，dsquery ou /?。
+
+备注:
+dsquery 命令帮助您查找目录中与指定搜索
+标准匹配的对象: dsquery 的输入是一个搜索标准，
+其输出是与该搜索匹配的一系列对象。若要获取特定对象
+的属性，请使用 dsget 命令(dsget /?)。
+
+可以将 dsquery 命令的结果通过管道输出，作为一个
+其他目录服务命令行工具(如 dsmod、dsget、dsrm 或 dsmove)的输入。
+
+可分辨名称中不是用作分隔符的逗号必须用
+反斜杠("/")字符转义(例如，
+"CN=Company/, Inc.,CN=Users,DC=microsoft,DC=com")。
+
+用在可分辨名称中的反斜杠必须用一个反斜杠转义
+(例如，
+"CN=Sales// Latin America,OU=Distribution Lists,DC=microsoft,DC=com")。
+
+
+示例:
+查找过去四个星期内处于非活动状态的计算机并将其从目 录中删除:
+
+ 
+dsquery computer -inactive 4 | dsrm
+
+查找组织单位所有的用户 "ou=Marketing,dc=microsoft,dc=com" 并将他们添加到
+Marketing Staff 组:
+
+ 
+dsquery user ou=Marketing,dc=microsoft,dc=com | smod group
+ 
+"cn=Marketing Staff,ou=Marketing,dc=microsoft,dc=com" -addmbr
+
+查找姓名以 "John" 开始的所有用户并显示他的办公室号码:
+
+ 
+dsquery user -name John* | dsget user -office
+
+要显示目录中所给对象属性的任意集，请使用 dsquery * 命令。例如，要显示对象
+(该对象的 DN 是 ou=Test，dc=microsoft，dc=com) 的 sAMAccountName，
+userPrincipalName 和 department 属性:
+
+ 
+dsquery * ou=Test,dc=microsoft,dc=com -scope base
+ 
+-attr sAMAccountName userPrincipalName department
+
+要读取对象(该对象的 DN 是 ou=Test，dc=microsoft，dc=com) 的所有属性:
+
+ 
+dsquery * ou=Test,dc=microsoft,dc=com -scope base -attr *
+
+目录服务命令行工具帮助:
+dsadd /? - 添加对象的帮助。
+dsget /? - 显示对象的帮助。
+dsmod /? - 修改对象的帮助。
+dsmove /? - 移动对象的帮助。
+dsquery /? - 查找与搜索标准匹配对象的帮助。
+dsrm /? - 删除对象的帮助。 
