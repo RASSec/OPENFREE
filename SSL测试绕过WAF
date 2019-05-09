@@ -1,0 +1,2 @@
+sslscan http://www.cert.org.cn|grep Accept
+for i in $(cat ssl.txt);do curl --ciphers $i "http://www.baidu.com";done
