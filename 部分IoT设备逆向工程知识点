@@ -1,0 +1,90 @@
+标题: 部分IoT设备逆向工程知识点
+
+创建: 2019-03-29 16:57
+更新: 2019-03-29 18:21
+链接: http://scz.617.cn:8/misc/201903291657.txt
+
+这不是一篇技术文章，算是闲扯，不喜勿阅。
+
+此领域的某些新手想快速入门，我多年的经验是，带着一些"好而具体"的问题放狗。
+在搜索引擎如此发达的今天，只要过了寡妇王的大门，95%都是一马平川的架势。
+
+--------------------------------------------------------------------------
+☆ binwalk
+☆ CramFS
+    1) 解压CramFS
+    2) 重打包CramFS
+    3) mount -t cramfs
+☆ cpio
+    1) 解压cpio格式文件
+    2) 重打包cpio格式文件
+☆ uImage
+    1) uImage与zImage的关系
+    2) 自制uImage
+    3) 从uImage中析取解压后的kernel及initramfs
+☆ U-Boot
+    1) 逆向工程
+        1.1) 定位加载基址
+    2) 在U-Boot环境中执行自定义代码
+    3) 在阉割版U-Boot中读写Flash
+    4) 利用U-Boot获取root shell
+    ...
+☆ 算法识别
+    1) SHA256
+    2) AES
+    3) SHA1
+    4) RC5
+    5) LZO
+    6) RSA/DSA/DH
+    7) DES/TripleDES
+    8) RC4
+    9) MD4/MD5
+   10) RC2-128-CBC
+   11) CRC32
+    ...
+☆ 交叉编译
+    1) 搭建交叉编译环境
+    2) dropbear
+    3) busybox
+    4) gdb
+    5) rz/sz
+    6) xxd
+    7) lsof
+    8) strace
+    9) 用QEMU安装ARM版Debian 9.4及以上版本
+☆ 针对kernel的逆向工程
+    1) 离线生成/proc/kallsyms结果
+    2) 在IDA中使用/proc/kallsyms符号信息
+    3) 还原Module.symvers
+        3.1) 从/dev/kmem中还原
+        3.2) 从kernel中静态还原
+    4) 在内核版本A上为内核版本B编译模块
+    5) 定位处理/dev/some的内核代码
+☆ ARM汇编语言
+    1) ARM/THUMB模式
+        1.1) GDB中判断当前CPU模式
+        1.2) GDB中ARM模式与THUMB模式的切换
+        1.3) IDA中指定ARM模式与THUMB模式
+        1.4) 编程实现在ARM/THUMB模式之间双向切换
+    2) gas语法
+        2.1) unified vs divided
+    3) MOV指令所能接受的立即数受限
+    4) 禁用I-Cache、D-Cache
+    5) EVT(Exception Vector Table)
+☆ 卸掉watchdog
+☆ JTAG
+    1) JFLASH
+    2) JMEM
+    3) JCMD
+    4) JGDBServer
+--------------------------------------------------------------------------
+
+这些问题都来自于工程实践，显然只是此领域很小的一部分，全部是软件角度的，因
+为硬件角度的我也不会，不误人子弟。有些问题并不局限于此领域，比如"算法识别"
+显然是逆向工程基本功之一。带着问题去学习，在实践中回答这些问题，搞上几个月，
+这个小领域就算入门了。
+
+我说的是，学会这些就开始"入门"了，不是"登堂入室"。如果在入门过程中总结出自
+己的方法论，后面自然会进入某种自循环、正反馈过程。
+
+假设你具有GDB、IDA、C/ASM、Python经验。如果是纯小白，那就当没看过这篇吧。
