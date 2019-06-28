@@ -1,0 +1,4 @@
+top
+ps aux|grep "xxx"
+lsof -i|grep "xxx"
+du -ah --max-depth=1 
