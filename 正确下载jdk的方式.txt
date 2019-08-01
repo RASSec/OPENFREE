@@ -1,0 +1,17 @@
+假设试图下载jdk-8u102-windows-x64.exe:
+
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+$ curl --compressed -ks -I -b "oraclelicense=accept-securebackup-cookie" -e "http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" https://edelivery.oracle.com/osdc-otn/otn-pub/java/jdk/8u102-b14/jdk-8u102-windows-x64.exe
+
+--------------------------------------------------------------------------
+HTTP/1.1 302 Moved Temporarily
+Server: Oracle-HTTP-Server-11g
+Location: http://download.oracle.com/otn-pub/java/jdk/8u102-b14/jdk-8u102-windows-x64.exe?AuthParam=1471395082_32b9675c853dc0d6dadc03511b158b15
+Content-Type: text/plain
+Content-Language: en
+Content-Length: 0
+Date: Wed, 17 Aug 2016 00:49:22 GMT
+Connection: keep-alive
+--------------------------------------------------------------------------
