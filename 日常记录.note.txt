@@ -1,2 +1,3 @@
 burpsuite 扩展  jython
 http://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.0/jython-standalone-2.7.0.jar
+./amass intel -d 100tal.com -whois
