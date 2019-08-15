@@ -1,3 +1,4 @@
 burpsuite 扩展  jython
 http://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.0/jython-standalone-2.7.0.jar
 ./amass intel -d 100tal.com -whois    所有注册一级域名{whois所有注册域名}
+ ./amass enum -d 100tal.com -ip 域名对应ip  对应网段
