@@ -1,0 +1,310 @@
+Average DNS queries performed: 93/sec, DNS names remaining: 9896
+Average DNS queries performed: 1044/sec, DNS names remaining: 49260
+jq.qq.com 58.251.100.24
+class.qq.com 163.177.84.36
+ied-tqosweb.qq.com 223.167.104.12
+Average DNS queries performed: 1572/sec, DNS names remaining: 32653
+kf.qq.com 59.37.96.218
+pingtcss.qq.com 183.3.226.92
+compass.qq.com 183.232.88.153
+smtpbgeu1.qq.com 52.59.177.22
+wp.qq.com 58.251.100.24
+wpa.qq.com 58.251.100.24
+ns-cnc1.qq.com 111.161.107.195,58.251.103.109,223.167.83.104
+ns-cmn1.qq.com 121.51.129.28
+smtpproxy21.qq.com 184.105.206.83
+guid.qq.com 14.17.32.232
+ns2.qq.com 121.51.160.100,203.205.177.41
+Average DNS queries performed: 1616/sec, DNS names remaining: 15268
+wlogin1.qq.com 183.232.119.221
+tu.qq.com 203.205.151.26
+qidian.qq.com 183.3.225.121
+smtpbgjp1.qq.com 54.238.142.250
+1.qq.com 101.89.15.139
+dnfcity.qq.com 118.89.48.175,123.207.254.227,129.204.5.38,134.175.9.250,111.230.219.64
+omgmta1.qq.com 203.205.128.130
+pingma.qq.com 203.205.128.130
+omgmta.qq.com 203.205.128.130
+17roco.qq.com 58.246.220.36
+wspeed.qq.com 125.39.52.15
+ns-open1.qq.com 103.7.30.126,120.204.1.100,59.36.132.139
+110.qq.com 203.205.146.75
+ct10000.qq.com 183.60.10.36,183.60.10.35
+Average DNS queries performed: 1574/sec, DNS names remaining: 41155
+u0.qq.com 203.205.219.230
+wx1.qq.com 203.205.151.221,240e:e1:a900:50::12,240e:e1:a900:50::2c
+Average DNS queries performed: 1366/sec, DNS names remaining: 22502
+dp3.qq.com 203.205.151.14
+smtpbg321.qq.com 14.17.32.30
+smtpbg410.qq.com 113.96.223.72
+Average DNS queries performed: 1208/sec, DNS names remaining: 4112
+smtpbg460.qq.com 59.36.132.19
+upload_data.qq.com 113.96.231.155
+Average DNS queries performed: 1186/sec, DNS names remaining: 34047
+smtpbg341.qq.com 14.17.44.36
+ns-cnc2.qq.com 223.167.83.104,58.251.103.109,111.161.107.195
+wetest.qq.com 117.135.172.162
+rs1.qq.com 59.36.120.122
+ns3.qq.com 112.60.1.69,183.192.201.116
+gad.qq.com 14.17.57.225
+smtpbg423.qq.com 183.3.255.121
+cface2.qq.com 203.205.151.50
+smtpbg201.qq.com 103.7.29.243
+qq.com 111.161.64.48,111.161.64.40
+weixin.qq.com 203.205.151.193,2402:4e00:8020:2::90,2402:4e00:8020:2::9
+ied-tqos.qq.com 125.39.247.217
+smtpbg433.qq.com 183.3.255.46
+Average DNS queries performed: 1200/sec, DNS names remaining: 15783
+panda.qq.com 58.251.81.197
+smtpbg464.qq.com 59.36.132.32
+smtpbg351.qq.com 183.57.50.165
+smtpbg419.qq.com 183.3.226.243
+smtpbg380.qq.com 203.205.176.242
+ns-os1.qq.com 203.205.220.26,203.205.144.156,203.205.177.39,184.105.206.121
+Average DNS queries performed: 1191/sec, DNS names remaining: 45179
+gameinstitute.qq.com 220.249.244.119
+Average DNS queries performed: 1191/sec, DNS names remaining: 27083
+aid.qq.com 58.251.81.193
+hrsdc.qq.com 139.199.216.59
+djc.qq.com 61.151.224.51
+Average DNS queries performed: 1181/sec, DNS names remaining: 9834
+smtpbg200.qq.com 103.7.28.227
+smtpbg381.qq.com 203.205.176.243
+ns1.qq.com 183.3.226.207,157.255.246.101,101.89.19.165
+wemedia.qq.com 10.241.89.110
+Average DNS queries performed: 1135/sec, DNS names remaining: 66891
+smtpbg376.qq.com 203.205.176.238
+smtpbg413.qq.com 113.96.223.78
+smtpbg480.qq.com 59.36.132.97
+e.qq.com 112.90.74.174
+tv1.qq.com 127.0.0.1
+rs2.qq.com 58.251.121.55
+ssl.wlogin1.qq.com 121.51.142.19
+Average DNS queries performed: 1128/sec, DNS names remaining: 109694
+vipfunc.qq.com 203.205.151.21
+114.qq.com 203.205.151.53
+smtpbg471.qq.com 59.36.132.65
+bof5.qq.com 59.37.116.28
+avlab.qq.com 203.205.151.50
+Average DNS queries performed: 1193/sec, DNS names remaining: 91449
+ernie.qq.com 59.37.116.43
+smtpproxy19.qq.com 184.105.206.84
+rudata.qq.com 134.175.158.148
+Average DNS queries performed: 1201/sec, DNS names remaining: 73708
+smtpbg412.qq.com 113.96.223.75
+qfwd.qq.com 58.251.81.44,58.250.137.56
+smtpbg440.qq.com 183.3.255.59
+pb5.qq.com 59.37.116.28
+ninja.qq.com 58.251.81.193
+smtpbg202.qq.com 184.105.206.29
+smtpbg431.qq.com 183.3.255.44
+o2.qq.com 58.251.80.193
+Average DNS queries performed: 1205/sec, DNS names remaining: 55956
+ptlogin2.108.qq.com 203.205.219.231
+smtpbg335.qq.com 14.17.44.30
+Average DNS queries performed: 1195/sec, DNS names remaining: 38325
+mx2.qq.com 203.205.219.58
+report.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+http.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+lady.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+300wen.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+12.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+123.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+act3.2010.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+blog.2008.qq.com 180.163.26.39,240e:e1:8100:28::2:16
+smtpbg340.qq.com 14.17.44.35
+ns-tel1.qq.com 123.151.66.83,183.2.186.153
+Average DNS queries performed: 1192/sec, DNS names remaining: 20681
+scc.qq.com 134.175.254.177
+ec.qq.com 125.39.83.100
+smtpbg409.qq.com 113.96.223.71
+Average DNS queries performed: 1183/sec, DNS names remaining: 2500
+tst2.qq.com 111.30.160.229
+openid.qq.com 163.177.68.176
+Average DNS queries performed: 1135/sec, DNS names remaining: 28480
+Average DNS queries performed: 1202/sec, DNS names remaining: 10074
+smtpbg451.qq.com 183.3.255.89
+fm.qq.com 203.205.151.222
+smtpbg421.qq.com 183.3.255.110
+qqgame-update1.qq.com 101.227.135.176,101.227.135.177,101.227.135.175
+qqmusic.qq.com 203.205.239.166
+ns-edu1.qq.com 121.51.129.28
+tongba.qq.com 112.90.74.175
+smtpbg441.qq.com 183.3.255.60
+Average DNS queries performed: 1108/sec, DNS names remaining: 36193
+smtpbg327.qq.com 14.17.43.158
+smtpbgsg2.qq.com 54.254.200.128
+mxbiz2.qq.com 184.105.206.87,184.105.206.58,184.105.206.59,184.105.206.88,203.205.147.218
+Average DNS queries performed: 1200/sec, DNS names remaining: 17765
+smtpbg454.qq.com 183.3.255.96
+gouhuo.qq.com 58.247.214.40
+b.qq.com 163.177.84.33
+smtpproxy30.qq.com 103.7.31.11
+ts1.qq.com 59.36.120.122
+tgp.qq.com 180.163.21.59
+b6.qq.com 203.205.128.160
+crm2.qq.com 203.205.219.229
+Average DNS queries performed: 1101/sec, DNS names remaining: 38191
+fulishe.qq.com 203.205.147.242
+smtpbg442.qq.com 183.3.255.61
+captcha.qq.com 163.177.72.188
+smtpbg371.qq.com 183.61.52.49
+smtpbg382.qq.com 203.205.176.244
+mini2015.qq.com 203.205.151.47
+smtpbg358.qq.com 183.61.51.176
+Average DNS queries performed: 1178/sec, DNS names remaining: 20102
+smtpbg405.qq.com 113.96.223.53
+smtpbg443.qq.com 183.3.255.64
+webrtc.qq.com 203.205.128.177,203.205.128.107
+sdc.qq.com 193.112.227.136
+smtpbg457.qq.com 59.36.132.126
+athena.qq.com 134.175.212.151
+Average DNS queries performed: 1163/sec, DNS names remaining: 5073
+smtpbg356.qq.com 220.249.245.14
+dmc.qq.com 14.17.32.188
+Average DNS queries performed: 1103/sec, DNS names remaining: 25351
+pandora.game.qq.com 140.207.189.23,210.22.247.139
+smtpbg331.qq.com 14.17.43.223
+smtpbg332.qq.com 14.17.43.227
+smtpbg353.qq.com 183.57.50.164
+Average DNS queries performed: 1194/sec, DNS names remaining: 6944
+csa.qq.com 172.23.20.33
+Average DNS queries performed: 1074/sec, DNS names remaining: 33617
+apimb.qq.com 119.28.37.119
+smtpbg456.qq.com 59.36.132.123
+Average DNS queries performed: 1185/sec, DNS names remaining: 15409
+smtpbg476.qq.com 59.36.132.85
+htdata3.qq.com 121.51.139.184,121.51.139.186
+game.108.qq.com 58.247.205.143
+smtpbg416.qq.com 183.3.226.165
+smtpbg473.qq.com 59.36.132.72
+mmspeed.qq.com 163.177.68.188
+aurora.qq.com 125.39.83.113
+capps.game.qq.com 180.163.26.100
+Average DNS queries performed: 1051/sec, DNS names remaining: 37921
+https.qq.com 58.250.137.36,2402:4e00:8010::9e
+news.qq.com 58.250.137.36,2402:4e00:8010::9e
+smtpproxy31.qq.com 103.7.31.13
+tgwsc.qq.com 210.22.247.161
+smtpbg320.qq.com 14.17.32.29
+smtpbg430.qq.com 183.3.255.43
+smtpbg414.qq.com 113.96.223.80
+smtpbg452.qq.com 183.3.255.91
+Average DNS queries performed: 1182/sec, DNS names remaining: 19727
+qtec.qq.com 134.175.38.35
+appsupport.qq.com 58.250.137.42
+Average DNS queries performed: 1147/sec, DNS names remaining: 11809
+esc.qq.com 172.23.135.6
+Average DNS queries performed: 1146/sec, DNS names remaining: 29343
+stun-a1.qq.com 163.177.93.178,163.177.93.188,163.177.93.245,220.249.245.24,220.249.245.138
+Average DNS queries performed: 1176/sec, DNS names remaining: 11191
+3344.qq.com 219.133.60.240
+open.youtu.qq.com 163.177.92.11
+life.qq.com 58.250.136.110
+source.qq.com 101.89.18.153,140.207.123.213
+mysec.qq.com 58.251.81.195
+Average DNS queries performed: 1095/sec, DNS names remaining: 35943
+citymedia.qq.com 163.177.90.84
+ke.qq.com 203.205.147.235
+smtpbg465.qq.com 59.36.132.35
+hera.qq.com 61.129.7.121
+Average DNS queries performed: 1191/sec, DNS names remaining: 17544
+wx.apd.qq.com 58.250.136.60
+Average DNS queries performed: 1076/sec, DNS names remaining: 40356
+
+--------------------------------------------------------------------------------
+174 names discovered - scrape: 72, api: 99, dns: 3
+--------------------------------------------------------------------------------
+ASN: 9808 - CMNET-GD Guangdong Mobile Communication Co.Ltd.
+	117.135.172.0/22  	1    Subdomain Name(s)
+	111.30.160.0/24   	1    Subdomain Name(s)
+ASN: 58542 - CHINATELECOM-HUNAN-YUEYANG-MAN Yueyang
+	123.151.64.0/21   	1    Subdomain Name(s)
+ASN: 4816 - CHINANET-IDC-GD China Telecom (Group)
+	113.96.224.0/20   	1    Subdomain Name(s)
+	183.57.48.0/21    	2    Subdomain Name(s)
+	183.61.32.0/19    	2    Subdomain Name(s)
+	59.37.96.0/19     	4    Subdomain Name(s)
+	14.17.0.0/18      	11   Subdomain Name(s)
+	183.60.0.0/20     	2    Subdomain Name(s)
+	113.96.192.0/19   	6    Subdomain Name(s)
+	59.36.112.0/20    	2    Subdomain Name(s)
+	183.2.176.0/20    	1    Subdomain Name(s)
+	219.133.32.0/19   	1    Subdomain Name(s)
+	183.3.224.0/19    	17   Subdomain Name(s)
+	59.36.128.0/19    	10   Subdomain Name(s)
+ASN: 139007 - UNICOM-NM-WuLanChaBu-IDC, CN
+	111.160.0.0/13    	4    Subdomain Name(s)
+	125.36.0.0/14     	4    Subdomain Name(s)
+ASN: 45090 - CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited
+	139.199.216.0/23  	1    Subdomain Name(s)
+	121.51.142.0/23   	1    Subdomain Name(s)
+	134.175.208.0/21  	1    Subdomain Name(s)
+	134.175.240.0/20  	1    Subdomain Name(s)
+	2402:4e00:8010::/44	2    Subdomain Name(s)
+	121.51.128.0/23   	2    Subdomain Name(s)
+	118.89.48.0/23    	1    Subdomain Name(s)
+	134.175.0.0/20    	1    Subdomain Name(s)
+	111.230.218.0/23  	1    Subdomain Name(s)
+	121.51.160.0/23   	1    Subdomain Name(s)
+	123.207.254.0/23  	1    Subdomain Name(s)
+	134.175.144.0/20  	1    Subdomain Name(s)
+	134.175.32.0/20   	1    Subdomain Name(s)
+	129.204.0.0/18    	1    Subdomain Name(s)
+	2402:4e00:8020::/44	2    Subdomain Name(s)
+	193.112.192.0/18  	1    Subdomain Name(s)
+	121.51.138.0/23   	2    Subdomain Name(s)
+ASN: 132591 - TENCENT-NET-AP-AS, HK
+	203.205.176.0/20  	6    Subdomain Name(s)
+	203.205.128.0/19  	20   Subdomain Name(s)
+	103.7.28.0/22     	4    Subdomain Name(s)
+	203.205.192.0/18  	6    Subdomain Name(s)
+ASN: 0 - Reserved Network Address Blocks
+	10.0.0.0/8        	1    Subdomain Name(s)
+	127.0.0.0/8       	1    Subdomain Name(s)
+	172.16.0.0/12     	2    Subdomain Name(s)
+ASN: 17623 - CNCGROUP-SZ China Unicom Shenzen network, CN
+	58.251.100.0/23   	3    Subdomain Name(s)
+	58.251.80.0/22    	6    Subdomain Name(s)
+	157.255.246.0/23  	1    Subdomain Name(s)
+	112.90.74.0/24    	2    Subdomain Name(s)
+	58.251.121.0/24   	1    Subdomain Name(s)
+	163.177.92.0/23   	4    Subdomain Name(s)
+	163.177.90.0/24   	1    Subdomain Name(s)
+	163.177.64.0/19   	2    Subdomain Name(s)
+	58.251.0.0/16     	2    Subdomain Name(s)
+	220.249.244.0/22  	4    Subdomain Name(s)
+	58.250.0.0/16     	6    Subdomain Name(s)
+	163.177.68.0/23   	2    Subdomain Name(s)
+	163.177.72.0/24   	1    Subdomain Name(s)
+ASN: 17621 - CNCGROUP-SH China Unicom Shanghai networ
+	210.22.240.0/21   	2    Subdomain Name(s)
+	140.207.123.0/24  	1    Subdomain Name(s)
+	223.167.0.0/16    	1    Subdomain Name(s)
+	223.167.83.0/24   	2    Subdomain Name(s)
+	58.246.0.0/16     	1    Subdomain Name(s)
+	58.247.0.0/16     	2    Subdomain Name(s)
+	140.207.189.0/24  	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com
+	52.58.0.0/15      	1    Subdomain Name(s)
+	54.238.128.0/17   	1    Subdomain Name(s)
+	54.254.128.0/17   	1    Subdomain Name(s)
+ASN: 4812 - CHINANET-SH-AP China Telecom (Group)
+	101.88.0.0/13     	3    Subdomain Name(s)
+	240e:e1:8000::/33 	10   Subdomain Name(s)
+	61.151.128.0/17   	1    Subdomain Name(s)
+	180.160.0.0/13    	10   Subdomain Name(s)
+	101.227.0.0/16    	3    Subdomain Name(s)
+	61.129.0.0/17     	1    Subdomain Name(s)
+ASN: 56040 - CMNET-GUANGDONG-AP China Mobile communications corporation
+	183.232.0.0/16    	2    Subdomain Name(s)
+	112.60.0.0/18     	1    Subdomain Name(s)
+ASN: 132203 - TENCENT-NET-AP-CN
+	203.205.147.0/24  	1    Subdomain Name(s)
+	119.28.36.0/23    	1    Subdomain Name(s)
+	103.7.31.0/24     	1    Subdomain Name(s)
+ASN: 6939 - HURRICANE - Hurricane Electric LLC
+	184.104.0.0/15    	8    Subdomain Name(s)
+ASN: 139080 - CMNET-SCIDC-CN, CN
+	120.204.0.0/16    	1    Subdomain Name(s)
+	183.192.0.0/15    	1    Subdomain Name(s)
