@@ -1,4 +1,0 @@
-password
-token
-key
-com.dhgate
