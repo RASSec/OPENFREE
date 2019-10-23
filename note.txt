@@ -7,3 +7,7 @@ as
      yum install -y jwhois
      whois -h asn.shadowserver.org origin ip地址
      whois -h asn.shadowserver.org prefix as号
+
+nmap -p 80,443,8080,8443 --open -iL list.txt -oG web-hosts
+
+grep Host web-hosts |cut -d" " -f3 |tr -d '()' |cut -f1 > targets
