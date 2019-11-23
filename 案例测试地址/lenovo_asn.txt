@@ -1,0 +1,34 @@
+103.244.59.0/24
+103.244.59.0/24	LENOVO (BEIJING) Co.ltd
+219.141.216.0/24	Lenovo Plaza,NO.6 Shangdi Changye Road,Haidian District, Beijing,P.R.China
+146.196.112.0/24	Lenovo (Beijing) Information Technology LtdChina
+46.196.113.0/24	China
+46.196.114.0/24	China
+46.196.115.0/24	China
+46.196.124.0/24	Lenovo (Beijing) Tiaopin Science and Technology LtdChina
+46.196.125.0/24	Lenovo (Beijing) Tiaopin Science and Technology LtdChina
+46.196.126.0/24	Lenovo (Beijing) Tiaopin Science and Technology LtdChina
+46.196.127.0/24	Lenovo (Beijing) Tiaopin Science and Technology Ltd
+43.255.224.0/24	LENOVO (BEIJING) Co.ltdChina
+43.255.225.0/24	LENOVO (BEIJING) Co.ltdChina
+43.255.226.0/24	China
+43.255.227.0/24	LENOVO (BEIJING) Co.ltdChina
+103.212.1.0/24	Lenovo (Beijing) Information Technology LtdChina
+103.212.2.0/24	Lenovo (Beijing) Information Technology Ltd
+84.252.116.0/24	Slovakia
+103.30.234.0/24	LENOVO (AUSTRALIA & NEW ZEALAND) PTY LIMITEDAustralia
+103.30.235.0/24	LENOVO (AUSTRALIA & NEW ZEALAND) PTY LIMITEDAustralia
+104.232.227.0/24	United States
+104.232.232.0/24	Lenovo (United States) Inc.United States
+104.232.233.0/24	United States
+104.232.234.0/24	United States
+104.232.236.0/24	Lenovo (United States) Inc.United States
+104.232.238.0/24	Lenovo (United States) Inc.United States
+144.188.132.0/24	Motorola Mobility LLC
+104.232.253.0/24
+104.232.254.0/23
+103.30.232.0/23
+autonomous_system.asn:63548
+autonomous_system.asn:137787
+autonomous_system.asn:138005
+autonomous_system.asn:138007
