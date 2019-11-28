@@ -1,4 +1,5 @@
-
+/service-worker.js
+/mainfest.json
 /activity
 /actuator
 /actuator/heapdump
