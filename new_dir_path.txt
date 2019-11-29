@@ -1,3 +1,4 @@
+/solr/#/
 /service-worker.js
 /mainfest.json
 /activity
