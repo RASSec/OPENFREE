@@ -1,0 +1,3 @@
+<!DOCTYPE document [<!ENTITY xxe SYSTEM "file:///etc/passwd">]> 
+
+&xxe;
