@@ -1,0 +1,12 @@
+function is_name(str) {
+    return /.{2,12}$/.test(str)
+}
+function is_url(str) {
+    return /^((http|https)\:\/\/)([a-z0-9-]{1,}.)?[a-z0-9-]{2,}.([a-z0-9-]{1,}.)?[a-z0-9]{2,}$/.test(str)
+}
+function is_qq(str) {
+    return /^[1-9]\d{4,13}$/.test(str)
+}
+function is_mail(str) {
+    return /^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/.test(str)
+}
