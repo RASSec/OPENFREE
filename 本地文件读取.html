@@ -1,0 +1,9 @@
+<head>
+    <script>
+        function show() {
+            var file = link.import.querySelector('body')
+            alert(file.innerHTML)
+        }
+    </script>
+    <link id="link" href="file:///etc/passwd" rel="import" as="document" onload="show()" />
+</head>
