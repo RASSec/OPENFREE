@@ -1,0 +1,6 @@
+动态调试
+strace -o aa -ff -p ssh进程
+
+grep open aa* | grep -v -e No -e null -e denied| grep WR
+
+grep一下open系统调用，然后过滤掉错误信息和/dev/null信息，以及denied信息，并且找WR的
