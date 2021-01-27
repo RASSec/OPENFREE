@@ -1,0 +1,13 @@
+--[[
+access_by_lua_file执行的脚步
+判断客户端是否是微信浏览器
+--]]
+local user_agent = ngx.req.get_headers()['User-Agent']
+local regexp = [[MicroMessenger]]--微信浏览器UA里的关键字
+local m = ngx.re.match(user_agent, regexp, 'jo')
+if not m then
+	ngx.exit(ngx.HTTP_BAD_REQUEST)
+end
+
+
+
